@@ -4,7 +4,7 @@
 
 **PhD in Physics · Data Scientist · ML/AI Engineer · Researcher (CityU Hong Kong)**  
 
-Resilient, disciplined, and always curious—passionate about deep learning and constantly exploring new challenges in ML and AI, quantitative research, and computer vision. Building end-to-end ML systems from data pipelines to production-ready models.
+Resilient, disciplined, and always curious passionate about deep learning and constantly exploring new challenges in ML and AI, quantitative research, and computer vision. Building end-to-end ML systems from data pipelines to production-ready models.
 ***
 
 ## 🔭 What I Work On
