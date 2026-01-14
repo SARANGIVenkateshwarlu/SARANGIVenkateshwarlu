@@ -77,9 +77,6 @@ Focused on **quantitative research**, **computer vision**, and **algorithmic tra
 - Developed screening logic and backtests using `pandas`, `NumPy`, and technical indicators (EMAs, volume profiles, breakouts).  
 - Integrated with broker APIs for semi-automated execution and research dashboards.
 
-### 🧪 Ferroelectric & Piezoelectric Materials Analysis  
-- Analyzed **Sn-doped BaCaZrTiO₃** and related piezoceramics using **synchrotron X-ray scattering** & **digital image correlation**.  
-- Quantified **electrostrain mechanisms** (domain reorientation vs phase transition) across temperature, linking microstructure to macroscopic electromechanical response.
 
 ### 🩺 Biomedical EIT & Phantom Modeling  
 - Designed and validated **3D phantom models** for **Electrical Impedance Tomography (EIT)** using biomedical impedance data.  
@@ -109,17 +106,10 @@ Focused on **quantitative research**, **computer vision**, and **algorithmic tra
 ## 🤝 How I Like to Collaborate
 
 - Open to **research collaborations**, **ML/AI projects**, and **quantitative finance** work.  
-- Enjoy working on problems that combine **domain physics**, **rigorous data analysis**, and **production-ready ML systems**.  
+- Enjoy working on problems that combine **domain physics and Statistics**, **rigorous data analysis**, and **production-ready ML systems**.  
 
 📫 **Reach out via GitHub or LinkedIn** (link in profile) for:  
 - ML/AI & Data Science roles (industry or research)  
 - Quant research and trading projects  
 - Collaborations in computer vision, scientific computing, or advanced materials data  
 
-***
-
-You can also add GitHub stats/tiles later (e.g., profile views, most used languages) if you want a more visual style.
-
-[1](https://github.com/SARANGIVenkateshwarlu)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/99595135/81498904-c432-4be0-ae48-01c87cba8db4/paste.txt)
-[3](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/99595135/14c33516-fd8e-40d2-9e7e-65beed8a3158/Image_segmentation_Unet_v2-1.ipynb)
