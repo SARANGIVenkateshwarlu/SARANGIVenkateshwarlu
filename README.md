@@ -38,6 +38,12 @@ Resilient, disciplined, and always curious passionate about deep learning and co
 
 
 
+
+
+
+
+
+
 ### 🤖 Machine Learning & Deep Learning  
 - CNNs, RNNs, LSTMs, GRUs  
 - Attention & Transformers  
