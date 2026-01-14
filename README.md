@@ -1,126 +1,128 @@
-***
-
 # Hi, I'm SARANGI Venkateshwarlu Ph.D 👋  
 
 **PhD in Physics · Data Scientist · ML/AI Engineer · Researcher (CityU Hong Kong)**  
 
-Resilient, disciplined, and always curious passionate about deep learning and constantly exploring new challenges in ML and AI, quantitative research, and computer vision. Building end-to-end ML systems from data pipelines to production-ready models.
-***
+**Resilient, disciplined, and always curious**—passionate about deep learning and constantly exploring new challenges in ML/AI, quantitative research, and computer vision.
+
+---
 
 ## 🔭 What I Work On
 
 - **Deep Learning & Computer Vision**  
-  - U-Net, ResNet, MobileNet, YOLO, Transformers for detection, segmentation, and representation learning  
-  - Medical/industrial imaging, autonomous driving perception, and scientific imaging workflows  
+  - U-Net, ResNet, MobileNet, YOLO, Transformers for detection, segmentation  
+  - Medical/industrial imaging, autonomous driving perception  
 
 - **Quantitative Finance & Time Series**  
-  - NSE equity research, factor modeling, alpha signals, and **systematic trading strategies**  
-  - Statistical modeling (ARIMA/VAR), volatility modeling, and ML-based forecasting  
+  - NSE equity research, factor modeling, alpha signals, systematic trading  
+  - ARIMA/VAR, volatility modeling, ML forecasting  
 
-- **Scientific & Engineering Data**  
-  - Ferroelectric/piezoelectric materials, XRD/X-ray scattering, and **high-dimensional experimental data analysis**  
-  - Biomedical impedance data and **Electrical Impedance Tomography (EIT)** phantom modeling  
+- **Scientific Computing**  
+  - Ferroelectric materials (XRD/X-ray scattering)  
+  - Biomedical EIT phantom modeling (100% accuracy)  
 
-***
-### 🧰 Languages and Tools
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/> 
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/> 
-<img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"/> 
-<img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg"/> 
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/> 
-<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/> 
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+---
 
-#
+## 🧰 Languages & ML Tools
 
+<div align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit_learn/scikit_learn-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/> 
 
+</div>
 
+<div align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+</div>
 
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="50" height="50"/> 
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/> 
 
+</div>
 
+<div align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/powerbi.svg" width="50" height="50"/> 
 
-### 🤖 Machine Learning & Deep Learning  
-- CNNs, RNNs, LSTMs, GRUs  
-- Attention & Transformers  
-- Autoencoders, Transfer Learning  
-- Hyperparameter tuning, model selection  
+</div>
 
-### 👁️ Computer Vision & Imaging  
-`OpenCV` · `Pillow` · `Albumentations` · `matplotlib` · `seaborn`  
-
-- Image classification, detection, segmentation  
-- U-Net, ResNet, MobileNet, YOLO-based pipelines  
-- Medical/industrial imaging, scientific visualization  
-
-### 📊 Data, Analytics & MLOps  
-`Pandas` · `NumPy` · `SciPy` · `Statsmodels` · `MLflow` · `DVC`  
-
-- Data cleaning, feature engineering, EDA  
-- Time series forecasting (ARIMA, SARIMA, Prophet)  
-- Experiment tracking, reproducible pipelines, versioning  
-
-### 💹 Quantitative Finance & Trading  
-`Pandas` · `NumPy` · `TA-Lib` · `backtrader` · `yfinance` · broker APIs  
-
-- Factor models & technical indicators  
-- Strategy backtesting & risk analysis  
-- NSE small/mid-cap research & screening  
-
-### ☁️ Tools & Dev  
-`Git` · `GitHub` · `Docker` · `VS Code` · `Jupyter` · `Linux`  
-
-***
+---
 
 ## 📌 Highlighted Projects
 
-### 🚗 U-Net Semantic Segmentation (Self-Driving Cars)  
-- Implemented **U-Net CNN** from scratch (encoder–decoder with skip connections) for **semantic segmentation** on CARLA self-driving car dataset.  
-- Achieved **~88% pixel accuracy** using `TensorFlow` + `Keras`, `SparseCategoricalCrossentropy`, and robust training pipelines (resize/cache/shuffle/batch).  
-- Visualized input / ground truth / predicted masks to verify **pixel-perfect car/person/road boundaries**.
+<div align="Left">
 
-### 📈 NSE Quantitative Research & Trading Strategies  
-- Built **Python-based research workflows** for NSE small/mid-cap stocks with focus on **earnings quality**, **momentum**, and **risk management**.  
-- Developed screening logic and backtests using `pandas`, `NumPy`, and technical indicators (EMAs, volume profiles, breakouts).  
-- Integrated with broker APIs for semi-automated execution and research dashboards.
+### 🚗 **U-Net Semantic Segmentation** 
+**88% pixel accuracy** on CARLA self-driving dataset  
+*TensorFlow/Keras · Encoder-decoder with skip connections*
 
+### 📈 **NSE Quantitative Research** 
+Small/mid-cap screening + backtesting  
+*Earnings quality · Momentum · Risk management*
 
-### 🩺 Biomedical EIT & Phantom Modeling  
-- Designed and validated **3D phantom models** for **Electrical Impedance Tomography (EIT)** using biomedical impedance data.  
-- Achieved **100% imaging accuracy** in controlled setups while **reducing electrode-related costs by ~70%** versus commercial solutions.
+### 🧪 **Ferroelectric Materials** 
+**~0.2% electrostrain** via synchrotron X-ray analysis  
+*Sn-doped BCZT piezoceramics · Phase transition mechanisms*
 
-***
+### 🩺 **Biomedical EIT** 
+**3D phantom models** with **100% imaging accuracy**  
+**70% cost savings** vs commercial electrodes
+
+</div>
+
+---
 
 ## 🎓 Education & Certifications
 
-- **PhD in Physics** – Focus on advanced materials & experimental data analysis  
-- **Deep Learning Specialization – DeepLearning.AI / Coursera**  
-  - Neural Networks & Deep Learning  
-  - Hyperparameter Tuning & Optimization  
-  - Convolutional Neural Networks (ResNet, MobileNet, YOLO, U-Net)  
-  - Sequence Models (RNNs, LSTMs, GRUs, attention, transformers foundations)  
+**PhD Physics** – CityU Hong Kong (Advanced Materials)  
+**Deep Learning Specialization** – DeepLearning.AI/Coursera (Completed)  
 
-***
+---
 
-## 📚 What I’m Learning Now
+## 📚 Currently Learning
 
-- Advanced **Transformers** and **LLM-based agents** for research and trading  
-- **Agentic AI** and multi-agent systems for automated data analysis and decision support  
-- More robust **time-series models** for financial forecasting and risk management  
+🔥 **Transformers & Agentic AI**  
+🔥 **Advanced MLOps** (MLflow, production pipelines)  
+🔥 **Financial Time Series** (GARCH, multivariate forecasting)  
 
-***
+---
 
-## 🤝 How I Like to Collaborate
+## 🤝 Open to Collaborate
 
-- Open to **research collaborations**, **ML/AI projects**, and **quantitative finance** work.  
-- Enjoy working on problems that combine **domain physics and Statistics**, **rigorous data analysis**, and **production-ready ML systems**.  
+**Data Science · ML Engineering · Quant Research** opportunities worldwide  
 
-📫 **Reach out via GitHub or LinkedIn** (link in profile) for:  
-- ML/AI & Data Science roles (industry or research)  
-- Quant research and trading projects  
-- Collaborations in computer vision, scientific computing, or advanced materials data  
+📫 **GitHub Issues** | **LinkedIn** (profile link)  
+🌍 **Hong Kong** | Open to **remote/global** roles  
+
+---
+
+
+
 
