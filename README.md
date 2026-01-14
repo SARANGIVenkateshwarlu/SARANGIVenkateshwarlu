@@ -1,5 +1,3 @@
-Below is a complete, modern GitHub profile README you can copy and adapt. Replace placeholders like `<N YEARS>` or project links as needed.
-
 ***
 
 # Hi, I'm Venkat Sarangi 👋  
