@@ -1,6 +1,6 @@
 ***
 
-# Hi, I'm Venkat Sarangi 👋  
+# Hi, I'm SARANGI Venkateshwarlu Ph.D 👋  
 
 **PhD in Physics · Data Scientist · ML/AI Engineer · Researcher (CityU Hong Kong)**  
 
