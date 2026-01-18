@@ -70,6 +70,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/powerbi.svg" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mlflow.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/dvc.svg" alt="DVC" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/dagshub.svg" alt="DAGsHub" width="50" height="50"/> 
+
+
 
 </div>
 
