@@ -2,7 +2,7 @@
 
 **PhD in Physics · Data Scientist · ML/AI Engineer · Researcher (CityU Hong Kong)**  
 
-**Resilient, disciplined, and always curious**—passionate about deep learning and constantly exploring new challenges in ML/AI, Bussiness, research, computer vision, and Deep Learning.
+**Resilient, disciplined, and always curious** -passionate about ML/AI and constantly exploring new challenges in Bussiness, research, computer vision, and Deep Learning.
 
 
 ---
