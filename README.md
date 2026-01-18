@@ -2,23 +2,8 @@
 
 **PhD in Physics · Data Scientist · ML/AI Engineer · Researcher (CityU Hong Kong)**  
 
-**Resilient, disciplined, and always curious**—passionate about deep learning and constantly exploring new challenges in ML/AI, quantitative research, and computer vision.
+**Resilient, disciplined, and always curious**—passionate about deep learning and constantly exploring new challenges in ML/AI, Bussiness, research, computer vision, and Deep Learning.
 
----
-
-## 🔭 What I Work On
-
-- **Deep Learning & Computer Vision**  
-  - U-Net, ResNet, MobileNet, YOLO, Transformers for detection, segmentation  
-  - Medical/industrial imaging, autonomous driving perception  
-
-- **Quantitative Finance & Time Series**  
-  - NSE equity research, factor modeling, alpha signals, systematic trading  
-  - ARIMA/VAR, volatility modeling, ML forecasting  
-
-- **Scientific Computing**  
-  - Ferroelectric materials (XRD/X-ray scattering)  
-  - Biomedical EIT phantom modeling (100% accuracy)  
 
 ---
 
@@ -77,6 +62,22 @@
 
 </div>
 
+---
+
+
+## 🔭 What I Work On
+
+- **Deep Learning & Computer Vision**  
+  - U-Net, ResNet, MobileNet, YOLO, Transformers for detection, segmentation  
+  - Medical/industrial imaging, autonomous driving perception  
+
+- **Quantitative Finance & Time Series**  
+  - NSE equity research, factor modeling, alpha signals, systematic trading  
+  - ARIMA/VAR, volatility modeling, ML forecasting  
+
+- **Scientific Computing**  
+  - Ferroelectric materials (XRD/X-ray scattering)  
+  - Biomedical EIT phantom modeling (100% accuracy)  
 ---
 
 ## 📌 Highlighted Projects
