@@ -2,7 +2,7 @@
 
 **PhD in Physics · Data Scientist · ML/AI Engineer · Researcher (CityU Hong Kong)**  
 
-**Resilient, disciplined, and always curious** -passionate about ML/AI and constantly exploring new challenges in Bussiness, research, computer vision, and Deep Learning.
+**Resilient, disciplined, always curious and passionate about**: Results-driven AI / Machine Learning Engineer with hands-on experience across the full model lifecycle, including model evaluation, validation, integration, and production deployment. Strong expertise in statistical analysis, hypothesis testing, and A/B testing to drive data-informed decisions and continuously improve model performance. Proven ability to design and build robust CI/CD and end-to-end automation pipelines for scalable and reliable ML systems. Experienced in implementing data and model drift detection, performance monitoring, and key metrics tracking to ensure long-term model stability in production. Highly skilled in containerization and orchestration using Docker and Kubernetes, enabling efficient deployment, scalability, and maintainability of machine learning solutions. 
 
 
 ---
