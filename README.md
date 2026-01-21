@@ -7,7 +7,7 @@
 
 ---
 
-## 🧰 Languages & ML Tools
+## 🧰 Languages & MLOPS Tools
 
 <div align="center">
 
