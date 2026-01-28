@@ -1,8 +1,11 @@
 # Hi, I'm SARANGI Venkateshwarlu Ph.D 👋  
 
-**PhD in Physics · Data Scientist · ML/AI Engineer · Researcher (CityU Hong Kong)**  
+**PhD in Physics · Data Scientist · ML/AI Engineer · Researcher (IIT-Bombay, CityU Hong Kong and HKUST)**  
 
-**Resilient, disciplined, always curious and passionate about**: Results-driven AI / Machine Learning Engineer with hands-on experience across the full model lifecycle, including model evaluation, validation, integration, and production deployment. Strong expertise in statistical analysis, hypothesis testing, and A/B testing to drive data-informed decisions and continuously improve model performance. Proven ability to design and build robust CI/CD and end-to-end automation pipelines for scalable and reliable ML systems. Experienced in implementing data and model drift detection, performance monitoring, and key metrics tracking to ensure long-term model stability in production. Highly skilled in containerization and orchestration using Docker and Kubernetes, enabling efficient deployment, scalability, and maintainability of machine learning solutions. 
+🚀 **Resilient, disciplined, and endlessly curious**, I’m a results-driven **AI/ML Engineer** with hands-on experience across the full model lifecycle from evaluation and validation to integration and production deployment.  
+📊 specialized in **statistical analysis, hypothesis testing, and A/B testing** to drive data-informed decisions and continuously improve model performance.  
+⚙️ Designed and build **robust CI/CD and end-to-end automation pipelines**, with strong experience in monitoring, data & model drift detection, and long-term production stability.  
+🐳☸️ I deploy **scalable ML systems using Docker and Kubernetes**, focusing on reliability, performance, and maintainability.
 
 
 ---
