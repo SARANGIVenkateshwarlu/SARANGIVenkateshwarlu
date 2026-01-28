@@ -9,89 +9,104 @@
 
 
 ---
-
-## 🧰 Languages & MLOPS Tools
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/scikitlearn.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/> 
-
-</div>
+## 🧰 Languages & AI & ML, MLOPS Tools
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/powerbi.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> 
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> 
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="50" height="50"/>
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="50" height="50"/> 
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
 
 </div>
 
 <div align="center">
 
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mlflow.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/dvc.svg" alt="DVC" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/dagshub.svg" alt="DAGsHub" width="50" height="50"/>
+<!-- Power BI (official yellow) -->
+
+<svg width="50" height="50" viewBox="0 0 24 24" fill="#F2C811" xmlns="http://www.w3.org/2000/svg">
+
+<path d="M3 3h4v18H3V3zm7 5h4v13h-4V8zm7-4h4v17h-4V4z"/>
+
+</svg>
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tableau.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="50" height="50"/>
+
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mlflow.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/dvc.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/dagshub.svg" width="50" height="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="50" height="50" alt="Apache Airflow"/> 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="50" height="50"/>
 
 </div>
 
-<div align="center"> 
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" alt="Azure"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="SageMaker"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubeflow"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="GCP"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" height="50" alt="Grafana"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50" alt="Prometheus"/> 
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50"/>
 
 </div>
 
+
+
+
 ---
 
-
-## 🔭 What I Work On
-
-- **Deep Learning & Computer Vision**  
-  - U-Net, ResNet, MobileNet, YOLO, Transformers for detection, segmentation  
-  - Medical/industrial imaging, autonomous driving perception  
-
-- **Quantitative Finance & Time Series**  
-  - NSE equity research, factor modeling, alpha signals, systematic trading  
-  - ARIMA/VAR, volatility modeling, ML forecasting  
-
-- **Scientific Computing**  
-  - Ferroelectric materials (XRD/X-ray scattering)  
-  - Biomedical EIT phantom modeling (100% accuracy)  
----
 
 ## 📌 Highlighted Projects
 
@@ -136,7 +151,7 @@ Small/mid-cap screening + backtesting
 
 ## 📚 Currently Learning
 
-🔥 **Transformers & Agentic AI**  
+🔥 ** LLM /SLM, RAG, Transformers & Agentic AI**  
 🔥 **Advanced MLOps** (MLflow, production pipelines)  
 🔥 **Financial Time Series** (GARCH, multivariate forecasting)  
 
@@ -144,7 +159,7 @@ Small/mid-cap screening + backtesting
 
 ## 🤝 Open to Collaborate
 
-**Data Science · ML Engineering · Quant Research** opportunities worldwide  
+**Data Science ·AI & ML Engineering · Business & Quant Research** opportunities worldwide  
 
 📫 **GitHub Issues** | **LinkedIn** (profile link)  
 🌍 **Hong Kong** | Open to **remote/global** roles  
