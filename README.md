@@ -66,7 +66,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50"/>
 
 </div>
----
+
 
 ## 📌 Highlighted Projects
 
@@ -83,17 +83,17 @@
 
 ## 🎓 Education & Certifications
 
-**PhD Physics** – CityU Hong Kong (Advanced Materials)  
-**Mathematics for Machine Learning Specialization** (Coursera, Imperial College London) – Completed Sep 2025  
-**Python 3 Programming Specialization** (Coursera, University of Michigan) – Completed Dec 2025  
-**Machine Learning Specialization** (Coursera, DeepLearning.AI & Stanford) – Completed Aug 2025  
-**Deep Learning Specialization** (Coursera, DeepLearning.AI & Stanford) – Completed Jan 2026  
-**Applied Deep Learning using Python** (NIT Kurukshetra, Haryana) – Completed Sep 2025  
-**Microsoft Power BI** (Udemy, Kulture Hire) – Completed Dec 2025  
-**AI-driven automation and Agentic AI workflows using n8n** (Udemy, Mayank Aggarwal) – In Progress  
-**End-to-End MLOps Bootcamp** (Udemy, Krish Naik) – In Progress  
-**Generative AI with Large Language Models** (Coursera, DeepLearning.AI & Stanford) – In Progress  
-**R and R Studio: Data Analytics, Data Science, Statistical Analysis** (Udemy, Kirill Eremenko) – In Progress  
+  
+- **Mathematics for Machine Learning Specialization** (Coursera, Imperial College London) – Completed Sep 2025  
+- **Python 3 Programming Specialization** (Coursera, University of Michigan) – Completed Dec 2025  
+- **Machine Learning Specialization** (Coursera, DeepLearning.AI & Stanford) – Completed Aug 2025  
+- **Deep Learning Specialization** (Coursera, DeepLearning.AI & Stanford) – Completed Jan 2026  
+- **Applied Deep Learning using Python** (NIT Kurukshetra, Haryana) – Completed Sep 2025  
+- **Microsoft Power BI** (Udemy, Kulture Hire) – Completed Dec 2025  
+- **AI-driven automation and Agentic AI workflows using n8n** (Udemy, Mayank Aggarwal) – In Progress  
+- **End-to-End MLOps Bootcamp** (Udemy, Krish Naik) – In Progress  
+- **Generative AI with Large Language Models** (Coursera, DeepLearning.AI & Stanford) – In Progress  
+- **R and R Studio: Data Analytics, Data Science, Statistical Analysis** (Udemy, Kirill Eremenko) – In Progress  
 
 
 ---
