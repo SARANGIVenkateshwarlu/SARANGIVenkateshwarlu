@@ -68,18 +68,20 @@
 </div>
 
 
-## 📌 Highlighted Projects 🚢 Production‑Ready | ✅ Validated | 📦 Versioned | 🔁 Reproducible
+## 📌 Highlighted Projects :
+
+## 🚢 Production‑Ready | ✅ Validated | 📦 Versioned | 🔁 Reproducible
 
 <div align="Left">
 
-###  **Project-1: END to END / Deep Learning CNN / U-Net Semantic Segmentation** 
-###  **Project-2: END to END / NLP - Transformers - Huggingface / U-Net Semantic Segmentation**  
-###  **Project-3: END to END / LLM - RAG / U-Net Semantic Segmentation**  
-###  **Project-4: END to END / Agentic AI / U-Net Semantic Segmentation** 
-###  **Project-5: END to END / Deep Learning CNN / U-Net Semantic Segmentation** 
-###  **Project-6: END to END / NLP - Transformers - Huggingface / U-Net Semantic Segmentation**  
-###  **Project-7: END to END / LLM - RAG / U-Net Semantic Segmentation**  
-###  **Project-8: END to END / Agentic AI / U-Net Semantic Segmentation** 
+- ###  **Project-1: END to END / Deep Learning CNN / U-Net Semantic Segmentation** 
+- ###  **Project-2: END to END / NLP - Transformers - Huggingface / U-Net Semantic Segmentation**  
+- ###  **Project-3: END to END / LLM - RAG / U-Net Semantic Segmentation**  
+- ###  **Project-4: END to END / Agentic AI / U-Net Semantic Segmentation** 
+- ###  **Project-5: END to END / Deep Learning CNN / U-Net Semantic Segmentation** 
+- ###  **Project-6: END to END / NLP - Transformers - Huggingface / U-Net Semantic Segmentation**  
+- ###  **Project-7: END to END / LLM - RAG / U-Net Semantic Segmentation**  
+- ###  **Project-8: END to END / Agentic AI / U-Net Semantic Segmentation** 
 
 </div>
 
