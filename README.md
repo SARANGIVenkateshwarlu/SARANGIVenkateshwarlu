@@ -72,10 +72,14 @@
 
 <div align="Left">
 
-### 🚗 **Project-1: Deep Learning CNN / U-Net Semantic Segmentation** 
-### 🚗 **Project-2: NLP - Transformers - Huggingface / U-Net Semantic Segmentation**  
-### 🚗 **Project-3: LLM - RAG / U-Net Semantic Segmentation**  
-### 🚗 **Project-4: Agentic AI / U-Net Semantic Segmentation** 
+### 🚗 **Project-1: END to END / Deep Learning CNN / U-Net Semantic Segmentation** 
+### 🚗 **Project-2: END to END / NLP - Transformers - Huggingface / U-Net Semantic Segmentation**  
+### 🚗 **Project-3: END to END / LLM - RAG / U-Net Semantic Segmentation**  
+### 🚗 **Project-4: END to END / Agentic AI / U-Net Semantic Segmentation** 
+### 🚗 **Project-5: END to END / Deep Learning CNN / U-Net Semantic Segmentation** 
+### 🚗 **Project-6: END to END / NLP - Transformers - Huggingface / U-Net Semantic Segmentation**  
+### 🚗 **Project-7: END to END / LLM - RAG / U-Net Semantic Segmentation**  
+### 🚗 **Project-8: END to END / Agentic AI / U-Net Semantic Segmentation** 
 
 </div>
 
