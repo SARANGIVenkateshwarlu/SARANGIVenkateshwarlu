@@ -68,26 +68,14 @@
 </div>
 ---
 
-
 ## 📌 Highlighted Projects
 
 <div align="Left">
 
-### 🚗 **U-Net Semantic Segmentation** 
-**88% pixel accuracy** on CARLA self-driving dataset  
-*TensorFlow/Keras · Encoder-decoder with skip connections*
-
-### 📈 **NSE Quantitative Research** 
-Small/mid-cap screening + backtesting  
-*Earnings quality · Momentum · Risk management*
-
-### 🧪 **Ferroelectric Materials** 
-**~0.2% electrostrain** via synchrotron X-ray analysis  
-*Sn-doped BCZT piezoceramics · Phase transition mechanisms*
-
-### 🩺 **Biomedical EIT** 
-**3D phantom models** with **100% imaging accuracy**  
-**70% cost savings** vs commercial electrodes
+### 🚗 ** Project-1: Deep Learning CNN / U-Net Semantic Segmentation ** 
+### 🚗 ** Project-2: NLP - Transformers - Huggingface / U-Net Semantic Segmentation ** 
+### 🚗 ** Project-3: LLM - RAG / U-Net Semantic Segmentation ** 
+### 🚗 ** Project-4: Agentic AI / U-Net Semantic Segmentation **
 
 </div>
 
