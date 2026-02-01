@@ -104,9 +104,9 @@
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Working on 🚢 Production‑Ready Projects
 
-🔥 ** LLM /SLM, RAG, Transformers & Agentic AI**  
+🔥 **LLM /SLM, RAG, Transformers & Agentic AI**  
 🔥 **Advanced MLOps** (MLflow, production pipelines)  
 🔥 **Financial Time Series** (GARCH, multivariate forecasting)  
 
