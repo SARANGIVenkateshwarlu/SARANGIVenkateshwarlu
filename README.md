@@ -85,6 +85,24 @@
 
 </div>
 
+
+
+## 📚 Currently Working on 🚢 Production‑Ready Projects
+
+🔥 **LLM /SLM, RAG, Transformers & Agentic AI**  
+🔥 **Advanced MLOps** (MLflow, production pipelines)  
+🔥 **Financial Time Series** (GARCH, multivariate forecasting)  
+
+---
+
+## 🤝 Open to Collaborate
+
+**Data Science ·AI & ML Engineering · Business & Quant Research** opportunities worldwide  
+
+📫 **GitHub Issues** | **LinkedIn** (profile link)  
+🌍 **Hong Kong** | Open to **remote/global** roles  
+
+
 ---
 
 ## 🎓 Education & Certifications
@@ -103,24 +121,6 @@
 
 
 ---
-
-## 📚 Currently Working on 🚢 Production‑Ready Projects
-
-🔥 **LLM /SLM, RAG, Transformers & Agentic AI**  
-🔥 **Advanced MLOps** (MLflow, production pipelines)  
-🔥 **Financial Time Series** (GARCH, multivariate forecasting)  
-
----
-
-## 🤝 Open to Collaborate
-
-**Data Science ·AI & ML Engineering · Business & Quant Research** opportunities worldwide  
-
-📫 **GitHub Issues** | **LinkedIn** (profile link)  
-🌍 **Hong Kong** | Open to **remote/global** roles  
-
----
-
 
 
 
