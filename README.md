@@ -3,8 +3,8 @@
 **PhD in Physics | AI/ML Engineer | Data Scientist | MLOPS | LLM | Researcher (IIT-Bombay, CityU Hong Kong and HKUST)**  
 
 
-🚀 I’m 10+ years of research and data science experience (M.Tech, Ph.D. in Physics) with expertise in Mathematics, Statistics, Machine Learning, Deep Learning, NLP, Agentic & AutoGen AI and RAG, LLM. 
--   Passionate about building end-to-end ML systems  from data exploration and model development to deployment and monitoring. 
+🚀 I’m a researcher and data scientist (M.Tech, Ph.D. in Physics) with expertise in Mathematics, Statistics, Machine Learning, Deep Learning, NLP, Agentic & AutoGen AI and RAG, LLM. 
+-   Passionate about building end-to-end ML systems from data exploration and model development to deployment and monitoring. 
 -   Experienced in predictive modeling, statistical analysis, A/B testing, and creating CI/CD pipelines for reliable automation.
 - 🐳☸️ Skilled in deploying scalable ML workloads with Docker & Kubernetes, ensuring performance, stability, and maintainability. 
 -   🌟 Driven by curiosity, continuous learning, and the goal of solving real-world problems through intelligent automation. 
@@ -106,7 +106,7 @@
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Training & Certifications
 
   
 - **Mathematics for Machine Learning Specialization** (Coursera, Imperial College London) – Completed Sep 2025  
