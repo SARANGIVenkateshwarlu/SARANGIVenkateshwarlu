@@ -3,7 +3,7 @@
 **PhD in Physics | AI/ML Engineer | Data Scientist | MLOPS | LLM | Researcher (IIT-Bombay, CityU Hong Kong and HKUST)**  
 
 
-🚀 I’m a researcher and data scientist (M.Tech, Ph.D. in Physics) with expertise in Mathematics, Statistics, Machine Learning, Deep Learning, NLP, Agentic & AutoGen AI, RAG, LLM, and Generative AI. 
+🚀 I’m a researcher and data scientist (M.Tech, Ph.D. in Physics) with expertise in Mathematics, Statistics, Machine Learning, Deep Learning, NLP, Agentic & AutoGen AI, Generative AI, Fine Tuning, Prompt Eng, RAG, LLM,  Generative AI, MLOPS, LLMOPS, and AIOPS. 
 -   Passionate about building end-to-end ML systems from data exploration and model development to deployment and monitoring. 
 -   Experienced in predictive modeling, statistical analysis, A/B testing, and creating CI/CD pipelines for reliable automation.
 - 🐳☸️ Skilled in deploying scalable ML workloads with Docker & Kubernetes, ensuring performance, stability, and maintainability. 
@@ -64,7 +64,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/icons/Bedrock.svg" width="50" height="50" alt="Bedrock"/>
+<img src="https://raw.githubusercontent.com/awslabs/aws-icons/master/Machine%20Learning/SageMaker.svg" width="50" height="50" alt="SageMaker"/>
+
 
 </div>
 
