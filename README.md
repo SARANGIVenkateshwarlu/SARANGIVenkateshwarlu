@@ -1,12 +1,13 @@
 # Hi, I'm SARANGI Venkateshwarlu Ph.D 👋  
 
-**PhD in Physics · Data Scientist · AI/ML Engineer · MLOPS · LLM · Researcher (IIT-Bombay, CityU Hong Kong and HKUST)**  
+**PhD in Physics | AI/ML Engineer | Data Scientist | MLOPS | LLM | Researcher (IIT-Bombay, CityU Hong Kong and HKUST)**  
 
-🚀 I’m a results-driven **AI/ML Engineer** with hands-on experience across the full model lifecycle from evaluation and validation to integration and production deployment.  
-📊 specialized in **statistical analysis, hypothesis testing, and A/B testing** to drive data-informed decisions and continuously improve model performance.  
-⚙️ Designed and build **robust CI/CD and end-to-end automation pipelines**, with strong experience in monitoring, data & model drift detection, and long-term production stability.  
-🐳☸️ I deploy **scalable ML systems using Docker and Kubernetes**, focusing on reliability, performance, and maintainability.
 
+🚀 I’m 10+ years of research and data science experience (M.Tech, Ph.D. in Physics) with expertise in Mathematics, Statistics, Machine Learning, Deep Learning, Agentic & AutoGen AI and RAG, LLM. 
+-   Passionate about building end-to-end ML systems  from data exploration and model development to deployment and monitoring. 
+-   Experienced in predictive modeling, statistical analysis, A/B testing, and creating CI/CD pipelines for reliable automation.
+- 🐳☸️ Skilled in deploying scalable ML workloads with Docker & Kubernetes, ensuring performance, stability, and maintainability. 
+-   🌟 Driven by curiosity, continuous learning, and the goal of solving real-world problems through intelligent automation. 
 
 ---
 ## 🧰 Languages & AI & ML, MLOPS Tools
