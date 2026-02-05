@@ -4,7 +4,7 @@
 
 
 🚀 I’m a researcher and data scientist (M.Tech, Ph.D. in Physics) with expertise in Mathematics, Statistics, Machine Learning, Deep Learning, Reinforcement Learning, NLP, Agentic & AutoGen AI, Generative AI, Fine Tuning, Prompt Eng, RAG, LLM,  Generative AI, MLOPS, LLMOPS, and AIOPS. 
--   Passionate about building end-to-end ML systems from data exploration and model development to deployment and monitoring. 
+-   Passionate about building end-to-end ML systems from data exploration and model development to deployment and monitoring.  
 -   Experienced in predictive modeling, statistical analysis, A/B testing, and creating CI/CD pipelines for reliable automation.
 - 🐳☸️ Skilled in deploying scalable ML workloads with Docker & Kubernetes, ensuring performance, stability, and maintainability. 
 -   🌟 Driven by curiosity, continuous learning, and the goal of solving real-world problems through intelligent automation. 
