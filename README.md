@@ -78,7 +78,7 @@
 
 <div align="Left">
 
-- ###  **Project-1: END to END / Deep Learning CNN / U-Net Semantic Segmentation** 
+- ###  **Project-1: END to END / NLP - Huggingface - Automated Financial Document Summarization** 
 - ###  **Project-2: END to END / NLP - Transformers - Huggingface / U-Net Semantic Segmentation**  
 - ###  **Project-3: END to END / LLM - RAG / U-Net Semantic Segmentation**  
 - ###  **Project-4: END to END / Agentic AI / U-Net Semantic Segmentation** 
