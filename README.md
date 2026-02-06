@@ -79,24 +79,13 @@
 
 <div align="Left">
 
-- ###  **Project-1: END to END / NLP - Huggingface - Automated Financial Document Summarization** 
-- ###  **Project-2: END to END / NLP - Transformers - Huggingface / U-Net Semantic Segmentation**  
-- ###  **Project-3: END to END / LLM - RAG / U-Net Semantic Segmentation**  
-- ###  **Project-4: END to END / Agentic AI / U-Net Semantic Segmentation** 
-- ###  **Project-5: END to END / Deep Learning CNN / U-Net Semantic Segmentation** 
-- ###  **Project-6: END to END / NLP - Transformers - Huggingface / U-Net Semantic Segmentation**  
-- ###  **Project-7: END to END / LLM - RAG / U-Net Semantic Segmentation**  
-- ###  **Project-8: END to END / Agentic AI / U-Net Semantic Segmentation** 
+-   Project-1: END to END / NLP - Huggingface - Automated Financial Document Summarization  
+-   Project-2: END to END / NLP - Agentic AI /     
+-   Project-3: END to END / LLM - RAG / U-Net Semantic Segmentation   
+-   Project-4: END to END / Agentic AI / U-Net Semantic Segmentation  
+
 
 </div>
-
-
-
-## 📚 Currently Working on 🚢 Production‑Ready Projects
-
-🔥 **LLM /SLM, RAG, Transformers & Agentic AI**  
-🔥 **Advanced MLOps** (MLflow, production pipelines)  
-🔥 **Financial Time Series** (GARCH, multivariate forecasting)  
 
 ---
 
