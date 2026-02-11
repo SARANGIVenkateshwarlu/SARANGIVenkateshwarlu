@@ -94,7 +94,7 @@
 
 - **Generative AI with Large Language Models (LLMs)** | DeepLearning.AI & Amazon Web Services | Coursera | February 2026 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/7e7cf9dbd103c5a24ebab039d0e1f28f221361b6/Generative%20AI%20LLM.png)  
   **Skills:** *Transformers · NLP · Reinforcement Learning · Prompt Engineering · Generative Model Architectures
-          · Model Evaluation · PyTorch ·PEFT · LoRA · RAG · Fine-tuning · LangChain · LangGraph · LangSmith · Generative AI*  
+          · Model Evaluation · PyTorch · PEFT · LoRA · RAG · Fine-tuning · LangChain · LangGraph · LangSmith · Generative AI*  
   
 - **Deep Learning** by Stanford University & DeepLearning.AI | Coursera | January 2026 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/04f967bf3cdd9307d50a63ac64fba75ea31166af/DL_final.png)  
   **Skills:** *Neural Networks(NN) · Convolutional Neural Networks (CNN) · Computer Vision (CV)· Recurrent Neural Networks(RNN) · LSTMs · Transformers · NLP · Reinforcement Learning*
