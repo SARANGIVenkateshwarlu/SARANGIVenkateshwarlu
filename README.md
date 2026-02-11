@@ -109,8 +109,9 @@
 - **Python 3 Programming Specialization** by University of Michigan | Coursera | December 2025 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/ad6d730a1f843ae3ef05452b57864b15878d50f6/python_final.png)    
   **Skills:** *Debugging · Data Structures · Unit Testing · Image Analysis · Data Manipulation ·  Software Design · Object Oriented Programming (OOP) · Data Processing · Data Import/Export · File I/O · Web Scraping · REST API*
 
-
-- **Applied Deep Learning using Python** (NIT Kurukshetra, Haryana) – Completed Sep 2025  
+- **Applied Deep Learning using Python** by NIT Kurukshetra | September 2025 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/04f967bf3cdd9307d50a63ac64fba75ea31166af/DL_final.png)  
+  **Skills:** *Neural Networks(NN) · Convolutional Neural Networks (CNN) · Computer Vision (CV)· Recurrent Neural Networks(RNN) · LSTMs · Transformers · NLP · Reinforcement Learning*
+  
 - **Microsoft Power BI** (Udemy, Kulture Hire) – Completed Dec 2025  
 - **AI-driven automation and Agentic AI workflows using n8n** (Udemy, Mayank Aggarwal) – In Progress  
 - **End-to-End MLOps Bootcamp** (Udemy, Krish Naik) – In Progress  
