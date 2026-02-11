@@ -107,7 +107,8 @@
 
   
 - **Python 3 Programming Specialization** by University of Michigan | Coursera | December 2025 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/ad6d730a1f843ae3ef05452b57864b15878d50f6/python_final.png)    
-  **Skills:** *Linear Algebra · Multivariate Calculus ·  Dimensionality Reduction · Principal Component Analysis · Statistics · Derivatives · Advanced Mathematics · Machine Learning Algorithms*  
+  **Skills:** *Debugging · Data Structures · Unit Testing · Image Analysis · Data Manipulation ·  Software Design · Object Oriented Programming (OOP) · Data Processing · Data Import/Export · File I/O · Web Scraping · REST API*
+
 
 - **Applied Deep Learning using Python** (NIT Kurukshetra, Haryana) – Completed Sep 2025  
 - **Microsoft Power BI** (Udemy, Kulture Hire) – Completed Dec 2025  
