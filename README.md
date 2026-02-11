@@ -92,12 +92,12 @@
 
 ## 📜 Training & Certifications
 
-- **Generative AI with Large Language Models (LLMs)** | DeepLearning.AI - Amazon Web Services | February 2026 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/7e7cf9dbd103c5a24ebab039d0e1f28f221361b6/Generative%20AI%20LLM.png)  
-  **Skills:** *Transformer · NLP · Reinforcement Learning · Prompt Engineering · Generative Model Architectures
+- **Generative AI with Large Language Models (LLMs)** | DeepLearning.AI & Amazon Web Services | Coursera | February 2026 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/7e7cf9dbd103c5a24ebab039d0e1f28f221361b6/Generative%20AI%20LLM.png)  
+  **Skills:** *Transformers · NLP · Reinforcement Learning · Prompt Engineering · Generative Model Architectures
           · Model Evaluation · PyTorch · RAG · Fine-tuning · LangChain · LangGraph · LangSmith · Generative AI*  
   
-
-
+- **Deep Learning** by Stanford University & DeepLearning.AI | Coursera | January 2026 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/7e7cf9dbd103c5a24ebab039d0e1f28f221361b6/Generative%20AI%20LLM.png)  
+**Skills:** *Neural Networks(NN) · Convolutional Neural Networks (CNN) · Computer Vision (CV)· Recurrent Neural Networks(RNN) · LSTMs · Transformers · NLP · Reinforcement Learning* 
   
 - **Mathematics for Machine Learning Specialization** (Coursera, Imperial College London) – Completed Sep 2025  
 - **Python 3 Programming Specialization** (Coursera, University of Michigan) – Completed Dec 2025  
@@ -112,6 +112,7 @@
   
 - **Advanced SQL: MySQL for Ecommerce & Web Analytics** | Udemy | February 2024* | 🔗 [Certificate](YOUR_CERTIFICATE_LINK_HERE)  
   **Skills:** MySQL · Business Intelligence · Data Analysis · Subqueries · Temporary Tables
+
 
 ## 🤝 Open to Collaborate
 
