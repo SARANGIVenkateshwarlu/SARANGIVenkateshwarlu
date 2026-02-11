@@ -105,10 +105,10 @@
 - **Mathematics for Machine Learning** by Imperial College London | Coursera | September 2025 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/dffb844ef03c0c5794fc4f3d2b40495fee8d06e4/math_final.png)  
 **Skills:** *Linear Algebra · Multivariate Calculus ·  Dimensionality Reduction · Principal Component Analysis · Statistics · Derivatives · Advanced Mathematics · Machine Learning Algorithms*  
 
-
   
-- **Python 3 Programming Specialization** (Coursera, University of Michigan) – Completed Dec 2025  
- 
+- **Python 3 Programming Specialization** by University of Michigan | Coursera | December 2025 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/ad6d730a1f843ae3ef05452b57864b15878d50f6/python_final.png)    
+  **Skills:** *Linear Algebra · Multivariate Calculus ·  Dimensionality Reduction · Principal Component Analysis · Statistics · Derivatives · Advanced Mathematics · Machine Learning Algorithms*  
+
 - **Applied Deep Learning using Python** (NIT Kurukshetra, Haryana) – Completed Sep 2025  
 - **Microsoft Power BI** (Udemy, Kulture Hire) – Completed Dec 2025  
 - **AI-driven automation and Agentic AI workflows using n8n** (Udemy, Mayank Aggarwal) – In Progress  
