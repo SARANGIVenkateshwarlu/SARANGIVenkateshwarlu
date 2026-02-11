@@ -92,12 +92,11 @@
 
 ## 📜 Training & Certifications
 
-- **Generative AI with Large Language Models (LLMs)** | DeepLearning.AI - Amazon Web Services | February 2026* | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/7e7cf9dbd103c5a24ebab039d0e1f28f221361b6/Generative%20AI%20LLM.png) 
+- **Generative AI with Large Language Models (LLMs)** | DeepLearning.AI - Amazon Web Services | February 2026 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/7e7cf9dbd103c5a24ebab039d0e1f28f221361b6/Generative%20AI%20LLM.png)  
   **Skills:** *Transformer · NLP · Reinforcement Learning · Prompt Engineering · Generative Model Architectures
           · Model Evaluation · PyTorch · RAG · Fine-tuning · LangChain · LangGraph · LangSmith · Generative AI*  
   
-- **Advanced SQL: MySQL for Ecommerce & Web Analytics** | Udemy | February 2024* | 🔗 [Certificate](YOUR_CERTIFICATE_LINK_HERE)  
-  **Skills:** MySQL · Business Intelligence · Data Analysis · Subqueries · Temporary Tables
+
 
   
 - **Mathematics for Machine Learning Specialization** (Coursera, Imperial College London) – Completed Sep 2025  
@@ -109,7 +108,10 @@
 - **AI-driven automation and Agentic AI workflows using n8n** (Udemy, Mayank Aggarwal) – In Progress  
 - **End-to-End MLOps Bootcamp** (Udemy, Krish Naik) – In Progress  
 - **Generative AI with Large Language Models** (Coursera, DeepLearning.AI & Stanford) – In Progress  
-- **R and R Studio: Data Analytics, Data Science, Statistical Analysis** (Udemy, Kirill Eremenko) – In Progress 
+- **R and R Studio: Data Analytics, Data Science, Statistical Analysis** (Udemy, Kirill Eremenko) – In Progress
+  
+- **Advanced SQL: MySQL for Ecommerce & Web Analytics** | Udemy | February 2024* | 🔗 [Certificate](YOUR_CERTIFICATE_LINK_HERE)  
+  **Skills:** MySQL · Business Intelligence · Data Analysis · Subqueries · Temporary Tables
 
 ## 🤝 Open to Collaborate
 
