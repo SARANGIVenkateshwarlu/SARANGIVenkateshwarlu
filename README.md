@@ -92,7 +92,7 @@
 
 ## 📜 Training & Certifications
 
-- **Generative AI with Large Language Models (LLMs)** | DeepLearning.AI - Amazon Web Services | February 2026* | 🔗 [Certificate](Assets_certs/Generative AI LLM.png) 
+- **Generative AI with Large Language Models (LLMs)** | DeepLearning.AI - Amazon Web Services | February 2026* | 🔗 [Certificate]([Assets_certs/Generative AI LLM.png](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/7e7cf9dbd103c5a24ebab039d0e1f28f221361b6/Generative%20AI%20LLM.png)) 
   **Skills:** *Transformer · NLP · Reinforcement Learning · Prompt Engineering · Generative Model Architectures
           · Model Evaluation · PyTorch · RAG · Fine-tuning · LangChain · LangGraph · LangSmith · Generative AI*  
   
