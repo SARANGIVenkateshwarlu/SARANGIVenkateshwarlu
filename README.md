@@ -97,7 +97,11 @@
           · Model Evaluation · PyTorch · RAG · Fine-tuning · LangChain · LangGraph · LangSmith · Generative AI*  
   
 - **Deep Learning** by Stanford University & DeepLearning.AI | Coursera | January 2026 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/04f967bf3cdd9307d50a63ac64fba75ea31166af/DL_final.png)  
-**Skills:** *Neural Networks(NN) · Convolutional Neural Networks (CNN) · Computer Vision (CV)· Recurrent Neural Networks(RNN) · LSTMs · Transformers · NLP · Reinforcement Learning* 
+**Skills:** *Neural Networks(NN) · Convolutional Neural Networks (CNN) · Computer Vision (CV)· Recurrent Neural Networks(RNN) · LSTMs · Transformers · NLP · Reinforcement Learning*
+
+- **Machine Learning** by Stanford University & DeepLearning.AI | Coursera | Augest 2025 | 🔗 Certificate
+**Skills:** *Linear & Logistic Regression · Neural Networks · Recommender Systems · Reinforcement Learning*
+  
   
 - **Mathematics for Machine Learning Specialization** (Coursera, Imperial College London) – Completed Sep 2025  
 - **Python 3 Programming Specialization** (Coursera, University of Michigan) – Completed Dec 2025  
