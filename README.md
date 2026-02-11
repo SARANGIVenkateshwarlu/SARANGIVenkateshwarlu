@@ -96,7 +96,7 @@
   **Skills:** *Transformers · NLP · Reinforcement Learning · Prompt Engineering · Generative Model Architectures
           · Model Evaluation · PyTorch · RAG · Fine-tuning · LangChain · LangGraph · LangSmith · Generative AI*  
   
-- **Deep Learning** by Stanford University & DeepLearning.AI | Coursera | January 2026 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/7e7cf9dbd103c5a24ebab039d0e1f28f221361b6/Generative%20AI%20LLM.png)  
+- **Deep Learning** by Stanford University & DeepLearning.AI | Coursera | January 2026 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/7e7cf9dbd103c5a24ebab039d0e1f28f221361b6/DL_final.png)   
 **Skills:** *Neural Networks(NN) · Convolutional Neural Networks (CNN) · Computer Vision (CV)· Recurrent Neural Networks(RNN) · LSTMs · Transformers · NLP · Reinforcement Learning* 
   
 - **Mathematics for Machine Learning Specialization** (Coursera, Imperial College London) – Completed Sep 2025  
