@@ -118,17 +118,16 @@
 - **AI-driven automation and Agentic AI workflows using n8n** (Udemy, Mayank Aggarwal) – In Progress  
 - **End-to-End MLOps Bootcamp** (Udemy, Krish Naik) – In Progress  
 - **R and R Studio: Data Analytics, Data Science, Statistical Analysis** (Udemy, Kirill Eremenko) – In Progress
-  
-- **Advanced SQL: MySQL for Ecommerce & Web Analytics** | Udemy | February 2024* | 🔗 [Certificate](YOUR_CERTIFICATE_LINK_HERE)  
+- **Advanced SQL: MySQL for Ecommerce & Web Analytics** | Udemy | February 2024* 
   **Skills:** MySQL · Business Intelligence · Data Analysis · Subqueries · Temporary Tables
 
 
 ## 🤝 Open to Collaborate
 
-**Data Science ·AI & ML Engineering · Business & Quant Research** opportunities worldwide  
+**Data Science · AI & ML Engineering · Research · Business · Finance · Quant Research** opportunities worldwide  
 
 📫 **GitHub Issues** | **LinkedIn** (profile link)  
-🌍 **Hong Kong** | Open to **remote/global** roles  
+
 
 
 ---
