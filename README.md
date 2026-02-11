@@ -89,17 +89,15 @@
 
 ---
 
-## 🤝 Open to Collaborate
 
-**Data Science ·AI & ML Engineering · Business & Quant Research** opportunities worldwide  
+## 📜 Training & Certifications
 
-📫 **GitHub Issues** | **LinkedIn** (profile link)  
-🌍 **Hong Kong** | Open to **remote/global** roles  
-
-
----
-
-## 🎓 Training & Certifications
+- **Generative AI with Large Language Models (LLMs)** | DeepLearning.AI - Amazon Web Services | February 2026* | 🔗 [Certificate](YOUR_CERTIFICATE_LINK_HERE)  
+  **Skills:** *Transformer · NLP · Reinforcement Learning · Prompt Engineering · Generative Model Architectures
+          · Model Evaluation · PyTorch · RAG · Fine-tuning · LangChain · LangGraph · LangSmith · Generative AI*  
+  
+- **Advanced SQL: MySQL for Ecommerce & Web Analytics** | Udemy | February 2024* | 🔗 [Certificate](YOUR_CERTIFICATE_LINK_HERE)  
+  **Skills:** MySQL · Business Intelligence · Data Analysis · Subqueries · Temporary Tables
 
   
 - **Mathematics for Machine Learning Specialization** (Coursera, Imperial College London) – Completed Sep 2025  
@@ -111,7 +109,17 @@
 - **AI-driven automation and Agentic AI workflows using n8n** (Udemy, Mayank Aggarwal) – In Progress  
 - **End-to-End MLOps Bootcamp** (Udemy, Krish Naik) – In Progress  
 - **Generative AI with Large Language Models** (Coursera, DeepLearning.AI & Stanford) – In Progress  
-- **R and R Studio: Data Analytics, Data Science, Statistical Analysis** (Udemy, Kirill Eremenko) – In Progress  
+- **R and R Studio: Data Analytics, Data Science, Statistical Analysis** (Udemy, Kirill Eremenko) – In Progress 
+
+## 🤝 Open to Collaborate
+
+**Data Science ·AI & ML Engineering · Business & Quant Research** opportunities worldwide  
+
+📫 **GitHub Issues** | **LinkedIn** (profile link)  
+🌍 **Hong Kong** | Open to **remote/global** roles  
+
+
+---
 
 
 ---
