@@ -112,8 +112,8 @@
 - **Applied Deep Learning using Python** by NIT Kurukshetra | September 2025 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/168becf23de1c4954b2b40c88610baa5a032821a/applied_DL_final.png)    
   **Skills:** *Neural Networks(NN) · Convolutional Neural Networks (CNN) · Computer Vision (CV)· Recurrent Neural Networks(RNN) · LSTMs · Transformers · NLP · Reinforcement Learning*    
   
-- **Microsoft Power BI Data Analyst** | Udemy | December 2025 | 🔗 [Certificate]()
-**Skills:** *Power BI · Power Query · Data Analysis Expressions (DAX) · Data Modeling · Interactive Dashboards*
+- **Microsoft Power BI Data Analyst** | Udemy | December 2025 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/3030efc641b7af096db28e96d6c6bf507da4afa1/Power_BI_Certificate.jpg)    
+**Skills:** *Power BI · Power Query · Data Analysis Expressions (DAX) · Data Modeling · Interactive Dashboards*    
 
 - **AI-driven automation and Agentic AI workflows using n8n** (Udemy, Mayank Aggarwal) – In Progress  
 - **End-to-End MLOps Bootcamp** (Udemy, Krish Naik) – In Progress  
