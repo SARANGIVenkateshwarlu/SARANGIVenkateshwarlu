@@ -102,7 +102,7 @@
 - **Machine Learning** by Stanford University & DeepLearning.AI | Coursera | Augest 2025 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/37c2233357b14a12063043f8d2ce421ff86654af/ML_final.png)  
 **Skills:** *Linear & Logistic Regression · Neural Networks · Recommender Systems · Reinforcement Learning*
 
-- **Mathematics for Machine Learning** Imperial College London | Coursera | September 2025 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/37c2233357b14a12063043f8d2ce421ff86654af/ML_final.png)  
+- **Mathematics for Machine Learning** by Imperial College London | Coursera | September 2025 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/37c2233357b14a12063043f8d2ce421ff86654af/ML_final.png)  
   **Skills:** *Linear & Logistic Regression · Neural Networks · Recommender Systems · Reinforcement Learning*
 
 
