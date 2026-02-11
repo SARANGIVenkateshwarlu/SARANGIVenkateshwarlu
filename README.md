@@ -99,19 +99,20 @@
 - **Deep Learning** by Stanford University & DeepLearning.AI | Coursera | January 2026 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/04f967bf3cdd9307d50a63ac64fba75ea31166af/DL_final.png)  
 **Skills:** *Neural Networks(NN) · Convolutional Neural Networks (CNN) · Computer Vision (CV)· Recurrent Neural Networks(RNN) · LSTMs · Transformers · NLP · Reinforcement Learning*
 
-- **Machine Learning** by Stanford University & DeepLearning.AI | Coursera | Augest 2025 | 🔗 Certificate
+- **Machine Learning** by Stanford University & DeepLearning.AI | Coursera | Augest 2025 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/37c2233357b14a12063043f8d2ce421ff86654af/ML_final.png)  
 **Skills:** *Linear & Logistic Regression · Neural Networks · Recommender Systems · Reinforcement Learning*
+
+- **Mathematics for Machine Learning** Imperial College London | Coursera | September 2025 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/37c2233357b14a12063043f8d2ce421ff86654af/ML_final.png)  
+  **Skills:** *Linear & Logistic Regression · Neural Networks · Recommender Systems · Reinforcement Learning*
+
+
   
-  
-- **Mathematics for Machine Learning Specialization** (Coursera, Imperial College London) – Completed Sep 2025  
 - **Python 3 Programming Specialization** (Coursera, University of Michigan) – Completed Dec 2025  
-- **Machine Learning Specialization** (Coursera, DeepLearning.AI & Stanford) – Completed Aug 2025  
-- **Deep Learning Specialization** (Coursera, DeepLearning.AI & Stanford) – Completed Jan 2026  
+ 
 - **Applied Deep Learning using Python** (NIT Kurukshetra, Haryana) – Completed Sep 2025  
 - **Microsoft Power BI** (Udemy, Kulture Hire) – Completed Dec 2025  
 - **AI-driven automation and Agentic AI workflows using n8n** (Udemy, Mayank Aggarwal) – In Progress  
 - **End-to-End MLOps Bootcamp** (Udemy, Krish Naik) – In Progress  
-- **Generative AI with Large Language Models** (Coursera, DeepLearning.AI & Stanford) – In Progress  
 - **R and R Studio: Data Analytics, Data Science, Statistical Analysis** (Udemy, Kirill Eremenko) – In Progress
   
 - **Advanced SQL: MySQL for Ecommerce & Web Analytics** | Udemy | February 2024* | 🔗 [Certificate](YOUR_CERTIFICATE_LINK_HERE)  
