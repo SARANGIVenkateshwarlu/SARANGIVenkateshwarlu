@@ -14,10 +14,16 @@
 
 🤖 AI & LLMs    
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-6E3AFF?style=for-the-badge&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Powered-FF4B4B?style=for-the-badge)    
+![RAG](https://img.shields.io/badge/RAG-Powered-FF4B4B?style=for-the-badge)   
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B3FE4?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0F4C81?style=for-the-badge&logoColor=white)
+
 
 ⚙️ MLOps & DevOps    
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
