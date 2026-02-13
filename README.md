@@ -127,12 +127,3 @@
 📫 **GitHub Issues** | **LinkedIn** (profile link)  
 
 
-
-
-
-Power BI 
-Tableau 
-Matplotlib 
-
----
- 
