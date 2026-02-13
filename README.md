@@ -7,7 +7,7 @@
     Machine Learning, Deep Learning, Reinforcement Learning, NLP, Agentic & AutoGen AI, Generative AI, Fine Tuning, Prompt Eng, RAG, and LLM. 
 -   Passionate about building End-to-End ML systems ( MLOPS, LLMOPS, and AIOPS) web apps and APIs from data exploration to deployment and monitoring.   
 ---
-🛠 Languages & AI & ML, MLOps Tools 
+🛠 Languages & AI & ML, MLOps Tools    
 
 💻 Languages    
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,13 +21,11 @@
 ![Llama](https://img.shields.io/badge/Llama-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-6E3AFF?style=for-the-badge&logo=anthropic&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Powered-FF4B4B?style=for-the-badge)   
-
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-7B3FE4?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0F4C81?style=for-the-badge&logoColor=white)
-
+![Pinecone](https://img.shields.io/badge/Pinecone-0F4C81?style=for-the-badge&logoColor=white)    
 
 ⚙️ MLOps & DevOps    
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -60,13 +58,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)    
 
-📊 Analytics & Visualization
-
+📊 Analytics & Visualization    
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![OriginLab](https://img.shields.io/badge/OriginLab-Scientific%20Graphing-FF6C2C?style=for-the-badge&logo=origin&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)    
 
 🗄 Databases & 🌐 Backend Web Apps UI Frameworks    
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
