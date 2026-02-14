@@ -94,7 +94,17 @@
 
 <div align="Left">
 
--   Project-1: END to END / NLP - Huggingface - Automated Financial Document Summarization  
+## Project-1: END to END / NLP & Huggingface - Automated Text Summarization    
+- **Motivation**: Developed an abstractive text summarization system using transformer models to condense dialogues into concise summaries. 
+- Utilized SAMSum dataset (14.7K train, 819 test, 818 validation samples) with multi-turn conversations and human-written summaries. 
+- Analyzed dialogue-summary pairs, tokenized with Pegasus tokenizer (maxlen 1024/128), prepared seq2seq features (input_ids, attention_mask, labels). 
+- Fine-tuned `google/pegasus-cnn_dailymail` using Hugging Face Seq2SeqTrainer with ROUGE evaluation and mixed precision.
+- Implemented inference pipeline with beam search generation for real-time summarization.    
+![Text Summarization](image1.png)
+![Training Progress](image2.png)
+
+---
+
 -   Project-2: END to END / NLP - Agentic AI /     
 -   Project-3: END to END / LLM - RAG / U-Net Semantic Segmentation   
 -   Project-4: END to END / Agentic AI / U-Net Semantic Segmentation  
