@@ -104,7 +104,7 @@
 
 | Horizontal Flowchart | Web App |
 |---------------------|-------------------|
-| ![Training Progress](https://github.com/SARANGIVenkateshwarlu/NLP_Projects/blob/1a80e95270beda488db9252d7220b1bd1f1cb545/Assert/FAST%20API_evaluation.png) | ![Training Progress](https://github.com/SARANGIVenkateshwarlu/NLP_Projects/blob/1a80e95270beda488db9252d7220b1bd1f1cb545/Assert/FAST%20API_evaluation.png) |
+| ![Training Progress](https://github.com/SARANGIVenkateshwarlu/NLP_Projects/blob/14dec43c56896b392152af6279d4a121e4b14d89/Assert/image3_in_1.png) | ![Training Progress](https://github.com/SARANGIVenkateshwarlu/NLP_Projects/blob/1a80e95270beda488db9252d7220b1bd1f1cb545/Assert/FAST%20API_evaluation.png) |
 
 
 ---
