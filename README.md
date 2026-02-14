@@ -101,7 +101,7 @@
 - Fine-tuned `google/pegasus-cnn_dailymail` using Hugging Face Seq2SeqTrainer with ROUGE evaluation and mixed precision.
 - Implemented inference pipeline with beam search generation for real-time summarization.    
 ![Text Summarization](image1.png)
-![Training Progress](image2.png)
+![Training Progress](https://github.com/SARANGIVenkateshwarlu/NLP_Projects/blob/1a80e95270beda488db9252d7220b1bd1f1cb545/Assert/FAST%20API_evaluation.png)
 
 ---
 
