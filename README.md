@@ -4,7 +4,7 @@
 
 
 🚀 Ph.D researcher and data scientist (M.Tech, Ph.D. in Physics) with expertise in Statistics, 
-    Machine Learning, Deep Learning, Reinforcement Learning, NLP, Agentic & AutoGen AI, Generative AI, Fine Tuning, Prompt Eng, RAG, and LLM. 
+    Machine Learning, Deep Learning,  Time-Series, Reinforcement Learning, NLP, Agentic & AutoGen AI, Generative AI, Fine Tuning, Prompt Eng, RAG, and LLM. 
 -   Passionate about building End-to-End (MLOPS, LLMOPS, & AIOPS) systems, web apps and APIs from data exploration to deployment and monitoring.
 ---
 🌐 Connect With Me    
