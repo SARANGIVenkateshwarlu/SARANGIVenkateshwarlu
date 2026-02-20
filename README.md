@@ -25,7 +25,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)    
 
-🤖 AI & LLMs    
+🤖 AI, RAG & LLMs    
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-6E3AFF?style=for-the-badge&logo=anthropic&logoColor=white)
