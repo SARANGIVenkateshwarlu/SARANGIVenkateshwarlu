@@ -1,6 +1,6 @@
 # Hi, I'm SARANGI Venkateshwarlu Ph.D 👋  
 
-**PhD in Physics | AI/ML Engineer | Data Scientist | MLOPS | LLM | Researcher (IIT-Bombay, CityU Hong Kong and HKUST)**  
+**PhD in Physics | AI/ML Engineer | Data Scientist | MLOPS | RAG | LLM | Researcher (IIT-Bombay, CityU Hong Kong and HKUST)**  
 
 
 🚀 Ph.D researcher and data scientist (M.Tech, Ph.D. in Physics) with expertise in Statistics, 
