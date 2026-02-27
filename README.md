@@ -105,7 +105,7 @@
 
 ---
 
--   Project-2: END to END / NLP - U-Net Semantic Segmentatio    
+-   Project-2: END to END / U-Net Semantic Segmentation    
 -   Project-3: END to END / LLM - RAG
  
 
