@@ -105,9 +105,9 @@
 
 ---
 
--   Project-2: END to END / NLP - Agentic AI /     
--   Project-3: END to END / LLM - RAG / U-Net Semantic Segmentation   
--   Project-4: END to END / Agentic AI / U-Net Semantic Segmentation  
+-   Project-2: END to END / NLP - U-Net Semantic Segmentatio    
+-   Project-3: END to END / LLM - RAG
+ 
 
 
 </div>
