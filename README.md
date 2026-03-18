@@ -91,7 +91,7 @@
 <div align="Left">    
     
 ## Project-1: END to END Scratch LLM: Building, Fine-Tuning & Deploying Chatbot and Intelligent Classifier
-                             
+   (In Progress)                          
 
 
 
@@ -114,8 +114,10 @@
 
 ---
 
--   Project-2: END to END / U-Net Semantic Segmentation    
--   Project-3: END to END / LLM - RAG
+-   Project-3: END to END / Production MLOP System (In Progress)
+-   Project-4: END to END / Streaming MLOP System (In Progress)
+-   Project-5: END to END / LLM RAG Application (In Progress)
+-   Project-6: END to END / Multimodel RAG with OCR (In Progress)
  
 
 
