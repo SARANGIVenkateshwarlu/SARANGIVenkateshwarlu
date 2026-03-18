@@ -88,9 +88,18 @@
 ## 📌 Highlighted Projects :
 ## 🚢 Production‑Ready | ✅ Validated | 📦 Versioned | 🔁 Reproducible
 
-<div align="Left">
+<div align="Left">    
+    
+## Project-1: END to END Scratch LLM: Building, Fine-Tuning & Deploying Chatbot and Intelligent Classifier
+                             
 
-## Project-1: END to END / NLP & Huggingface - Automated Text Summarization    
+
+
+
+
+ <div align="Left">   
+     
+## Project-2: END to END / NLP & Huggingface - Automated Text Summarization    
 - **Motivation**: Developed an abstractive text summarization system using transformer models to condense dialogues into concise summaries. 
 - Utilized SAMSum dataset (14.7K train, 819 test, 818 validation samples) with multi-turn conversations and human-written summaries. 
 - Analyzed dialogue-summary pairs, tokenized with Pegasus tokenizer (maxlen 1024/128), prepared seq2seq features (input_ids, attention_mask, labels). 
