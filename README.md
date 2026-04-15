@@ -89,9 +89,9 @@
 
 <div align="Left">    
     
-## Project-1: END to END Scratch small LLM: Building and Fine-Tuning 
+## Project-1: END to END Scratch SLM: Building and Fine-Tuning 
 
-## Project-2: SFT-LoRA fine-tuning for FLAN‑T5‑Base (247M) on DialogSum 
+## Project-2: SFT-LoRA fine-tuning: Optimization SLM FLAN‑T5 
 - Achieved 41.8% ROUGE‑1 via LoRA Optimization. 
 - Benchmarked zero-shot, full fine-tune (~42% ROUGE‑1), and LoRA (30–41% ROUGE‑1) with 94% parameter efficiency. 
 - Trained  and using PEFT, TRL, bf16; deployed (Streamlit.app) merged model (~500MB) and 28MB. 
