@@ -86,13 +86,12 @@
 
 
 ## 📌 Highlighted Projects :
-## 🚢 Production‑Ready | ✅ Validated | 📦 Versioned | 🔁 Reproducible
 
 <div align="Left">    
     
 ## Project-1: END to END Scratch LLM: Building, Fine-Tuning & Deploying Chatbot and Intelligent Classifier
 
-## Project-2: Built a production-grade LoRA fine-tuning pipeline for FLAN‑T5‑Base (247M) on DialogSum 
+## Project-2: BuiltLoRA fine-tuning pipeline for FLAN‑T5‑Base (247M) on DialogSum 
 - Achieved 41.8% ROUGE‑1 via LoRA Optimization. 
 - Benchmarked zero-shot, full fine-tune (~42% ROUGE‑1), and LoRA (30–41% ROUGE‑1) with 94% parameter efficiency. 
 - Trained  and using PEFT, TRL, bf16; deployed (Streamlit.app) merged model (~500MB) and 28MB. 
