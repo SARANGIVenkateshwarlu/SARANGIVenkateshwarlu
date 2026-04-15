@@ -89,40 +89,15 @@
 
 <div align="Left">    
     
-## Project-1: END to END Scratch LLM: Building, Fine-Tuning & Deploying Chatbot and Intelligent Classifier
+## Project-1: END to END Scratch small LLM: Building and Fine-Tuning 
 
-## Project-2: BuiltLoRA fine-tuning pipeline for FLAN‑T5‑Base (247M) on DialogSum 
+## Project-2: SFT-LoRA fine-tuning for FLAN‑T5‑Base (247M) on DialogSum 
 - Achieved 41.8% ROUGE‑1 via LoRA Optimization. 
 - Benchmarked zero-shot, full fine-tune (~42% ROUGE‑1), and LoRA (30–41% ROUGE‑1) with 94% parameter efficiency. 
 - Trained  and using PEFT, TRL, bf16; deployed (Streamlit.app) merged model (~500MB) and 28MB. 
-
-
-                       
-
-
-
-
-
- <div align="Left">   
-     
-## Project-2: END to END / NLP & Huggingface - Automated Text Summarization    
-- **Motivation**: Developed an abstractive text summarization system using transformer models to condense dialogues into concise summaries. 
-- Utilized SAMSum dataset (14.7K train, 819 test, 818 validation samples) with multi-turn conversations and human-written summaries. 
-- Analyzed dialogue-summary pairs, tokenized with Pegasus tokenizer (maxlen 1024/128), prepared seq2seq features (input_ids, attention_mask, labels). 
-- Fine-tuned `google/pegasus-cnn_dailymail` using Hugging Face Seq2SeqTrainer with ROUGE evaluation and mixed precision.
-- Implemented inference pipeline with beam search generation for real-time summarization.    
-
-
-| Horizontal Flowchart | Web App |
-|---------------------|-------------------|
-| ![Training Progress](https://github.com/SARANGIVenkateshwarlu/NLP_Projects/blob/14dec43c56896b392152af6279d4a121e4b14d89/Assert/image3_in_1.png) | ![Training Progress](https://github.com/SARANGIVenkateshwarlu/NLP_Projects/blob/1a80e95270beda488db9252d7220b1bd1f1cb545/Assert/FAST%20API_evaluation.png) |
-
-
+             
 ---
-
--   Project-3: END to END / Production MLOP System (In Progress)
--   Project-4: END to END / Streaming MLOP System (In Progress)
--   Project-5: END to END / LLM RAG Application (In Progress)
+-   Project-4: END to END / Production-Streaming MLOP System (In Progress)
 -   Project-6: END to END / Multimodel RAG with OCR (In Progress)
  
 
