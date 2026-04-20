@@ -97,11 +97,10 @@
 - Evaluate on full datasets and inference tested             
 
 ## Project-2: [SFT-LoRA fine-tuning: Optimization SLM FLAN‑T5](https://github.com/SARANGIVenkateshwarlu/LoRA_fine-tune_summarize.git) 
-- Base encoder-decoder fundation model FLANT-T5(247M)
-- Achieved 41.8% ROUGE‑1 via LoRA Optimization 
-- Benchmarked zero-shot, full fine-tune (~42% ROUGE‑1)     
-- LoRA (30–41% ROUGE‑1) with 94% parameter efficiency   
-- Deployed Streamlit.app for inference. 
+- Base encoder-decoder fundation model FLANT-T5(247M)    
+- Achieved full fine-tune (~42% ROUGE‑1), via LoRA Optimization (41.8% ROUGE‑1) with 94% parameter efficiency    
+- Acheived 94% parameter efficiency and Deployed Streamlit.app for inference.    
+## Project-3: [Tiny_small_llm_text generation (25M)](https://github.com/SARANGIVenkateshwarlu/Tiny_small_llm_story_tell.git)
              
 ---
 -   Project-6: END to End / Multimodel RAG with OCR (In Progress)
