@@ -90,13 +90,14 @@
 <div align="Left">    
     
 ## Project-1: [END to END Scratch SLM: Building and Fine-Tuning (GPT‑2 124M)](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
-- End to end layers development for GPT-2 Architecture Design    
+- Base decoder fundation model: End to end layers development for GPT-2 Architecture Design    
 - Created Datasets & DataLoaders (tokenization + padding)    
 - Initialized GPT‑2 with pretrained OpenAI weights    
 - Replace LM head with classification head (768→2)    
 - Evaluate on full datasets and inference tested             
 
-## Project-2: SFT-LoRA fine-tuning: Optimization SLM FLAN‑T5  
+## Project-2: [SFT-LoRA fine-tuning: Optimization SLM FLAN‑T5](https://github.com/SARANGIVenkateshwarlu/LoRA_fine-tune_summarize.git) 
+- Base encoder-decoder fundation model FLANT-T5(127M)
 - Achieved 41.8% ROUGE‑1 via LoRA Optimization 
 - Benchmarked zero-shot, full fine-tune (~42% ROUGE‑1)     
 - LoRA (30–41% ROUGE‑1) with 94% parameter efficiency   
