@@ -97,7 +97,7 @@
 - Evaluate on full datasets and inference tested             
 
 ## Project-2: [SFT-LoRA fine-tuning: Optimization SLM FLAN‑T5](https://github.com/SARANGIVenkateshwarlu/LoRA_fine-tune_summarize.git) 
-- Base encoder-decoder fundation model FLANT-T5(127M)
+- Base encoder-decoder fundation model FLANT-T5(247M)
 - Achieved 41.8% ROUGE‑1 via LoRA Optimization 
 - Benchmarked zero-shot, full fine-tune (~42% ROUGE‑1)     
 - LoRA (30–41% ROUGE‑1) with 94% parameter efficiency   
