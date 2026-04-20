@@ -89,7 +89,9 @@
 
 <div align="Left">    
     
-## Project-1: END to END Scratch SLM: Building and Fine-Tuning(GPT‑2_124M) [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/7e7cf9dbd103c5a24ebab039d0e1f28f221361b6/Generative%20AI%20LLM.png)
+## Project-1: END to END Scratch SLM: Building and Fine-Tuning(GPT‑2_124M) (https://[[(https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier.git))] 
+
+## Project-1: [END to END Scratch SLM: Building and Fine-Tuning (GPT‑2 124M)](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
 - End to end GPT-2 Architecture Design    
 - Created Datasets & DataLoaders (tokenization + padding)    
 - Initialized GPT‑2 with pretrained OpenAI weights    
