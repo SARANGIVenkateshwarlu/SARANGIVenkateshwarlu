@@ -79,7 +79,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-##  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)    
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)    
 
 
 ---
@@ -89,7 +89,7 @@
 
 <div align="Left">    
     
-## Project-1: END to END Scratch SLM: Building and Fine-Tuning(GPT‑2_124M)
+## Project-1: END to END Scratch SLM: Building and Fine-Tuning(GPT‑2_124M) [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/7e7cf9dbd103c5a24ebab039d0e1f28f221361b6/Generative%20AI%20LLM.png)
 - End to end GPT-2 Architecture Design    
 - Created Datasets & DataLoaders (tokenization + padding)    
 - Initialized GPT‑2 with pretrained OpenAI weights    
