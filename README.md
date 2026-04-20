@@ -79,7 +79,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)    
+##  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)    
 
 
 ---
@@ -90,16 +90,21 @@
 <div align="Left">    
     
 ## Project-1: END to END Scratch SLM: Building and Fine-Tuning(GPT‑2_124M)
+- End to end GPT-2 Architecture Design    
+- Created Datasets & DataLoaders (tokenization + padding)    
+- Initialized GPT‑2 with pretrained OpenAI weights    
+- Replace LM head with classification head (768→2)    
+- Evaluate on full datasets and inference tested             
 
-
-## Project-2: SFT-LoRA fine-tuning: Optimization SLM FLAN‑T5 
-- Achieved 41.8% ROUGE‑1 via LoRA Optimization. 
-- Benchmarked zero-shot, full fine-tune (~42% ROUGE‑1), and LoRA (30–41% ROUGE‑1) with 94% parameter efficiency. 
-- Trained  and using PEFT, TRL, bf16; deployed (Streamlit.app) merged model (~500MB) and 28MB. 
+## Project-2: SFT-LoRA fine-tuning: Optimization SLM FLAN‑T5  
+- Achieved 41.8% ROUGE‑1 via LoRA Optimization 
+- Benchmarked zero-shot, full fine-tune (~42% ROUGE‑1)     
+- LoRA (30–41% ROUGE‑1) with 94% parameter efficiency   
+- Deployed Streamlit.app for inference. 
              
 ---
+-   Project-6: END to End / Multimodel RAG with OCR (In Progress)
 -   Project-4: END to END / Production-Streaming MLOP System (In Progress)
--   Project-6: END to END / Multimodel RAG with OCR (In Progress)
  
 
 
