@@ -89,10 +89,8 @@
 
 <div align="Left">    
     
-## Project-1: END to END Scratch SLM: Building and Fine-Tuning(GPT‑2_124M) (https://[[(https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier.git))] 
-
 ## Project-1: [END to END Scratch SLM: Building and Fine-Tuning (GPT‑2 124M)](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
-- End to end GPT-2 Architecture Design    
+- End to end layers development for GPT-2 Architecture Design    
 - Created Datasets & DataLoaders (tokenization + padding)    
 - Initialized GPT‑2 with pretrained OpenAI weights    
 - Replace LM head with classification head (768→2)    
