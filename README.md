@@ -89,7 +89,8 @@
 
 <div align="Left">    
     
-## Project-1: END to END Scratch SLM: Building and Fine-Tuning 
+## Project-1: END to END Scratch SLM: Building and Fine-Tuning(GPT‑2_124M)
+
 
 ## Project-2: SFT-LoRA fine-tuning: Optimization SLM FLAN‑T5 
 - Achieved 41.8% ROUGE‑1 via LoRA Optimization. 
