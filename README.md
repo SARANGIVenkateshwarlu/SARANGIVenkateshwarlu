@@ -148,8 +148,6 @@
 
 ## 🤝 Open to Collaborate
 
-**Data Science · AI & ML Engineering · Research · Business · Finance · Quant Research** opportunities worldwide  
-
-📫 **GitHub Issues** | **LinkedIn** (profile link)  
+**Data Science · AI & ML Engineering · Research** 
 
 
