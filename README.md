@@ -36,7 +36,7 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-7B3FE4?style=for-the-badge&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0F4C81?style=for-the-badge&logoColor=white)    
 
-⚙️ MLOps & DevOps    
+⚙️ MLOps Tools   
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -45,7 +45,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)    
 
-🤖 Machine Learning & Deep Learning    
+🤖 Machine Learning & Deep Learning   
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -106,7 +106,6 @@
 -   Project-4: END to END / Production-Streaming MLOP System (In Progress)
  
 
-
 </div>
 
 ---
@@ -116,8 +115,13 @@
 
 - **Generative AI with Large Language Models (LLMs)** | DeepLearning.AI & Amazon Web Services | Coursera | February 2026 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/7e7cf9dbd103c5a24ebab039d0e1f28f221361b6/Generative%20AI%20LLM.png)  
   **Skills:** *Transformers · NLP · Reinforcement Learning · Prompt Engineering · Generative Model Architectures
-          · Model Evaluation · PyTorch · PEFT · LoRA · RAG · Fine-tuning · LangChain · LangGraph · LangSmith · Generative AI*  
-  
+          · Model Evaluation · PyTorch · PEFT · LoRA · RAG · Fine-tuning · LangChain · LangGraph · LangSmith · Generative AI*
+
+- **End-to-End MLOps Bootcamp** | Self-Directed Industry Pipeline | Python → Production Deployment | Udemy | April 2026 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/7e7cf9dbd103c5a24ebab039d0e1f28f221361b6/Generative%20AI%20LLM.png)  
+  **Skills:** *Git/GitHub · Docker · MLflow · DVC · DagsHub · Apache Airflow/Astro · GitHub Actions CI/CD · ETL Pipelines · End-to-End ML/NLP Projects · AWS SageMaker · 
+  GenAI-Deployment · Grafana, · PostgreSQL, · Monitoring, Alerting, · Model Versioning, · Experiment Tracking, · Terraform,· Kubernetes, · FastAPI, · jenkins, · Streamlit*
+
+    
 - **Deep Learning** by Stanford University & DeepLearning.AI | Coursera | January 2026 | 🔗 [Certificate](https://github.com/SARANGIVenkateshwarlu/Assets_certs/blob/04f967bf3cdd9307d50a63ac64fba75ea31166af/DL_final.png)  
   **Skills:** *Neural Networks(NN) · Convolutional Neural Networks (CNN) · Computer Vision (CV)· Recurrent Neural Networks(RNN) · LSTMs · Transformers · NLP · Reinforcement Learning*
 
@@ -138,10 +142,7 @@
 **Skills:** *Power BI · Power Query · Data Analysis Expressions (DAX) · Data Modeling · Interactive Dashboards*    
 
 - **AI-driven automation and Agentic AI workflows using n8n** (Udemy, Mayank Aggarwal) – In Progress  
-- **End-to-End MLOps Bootcamp** (Udemy, Krish Naik) – In Progress  
 - **R and R Studio: Data Analytics, Data Science, Statistical Analysis** (Udemy, Kirill Eremenko) – In Progress
-- **Advanced SQL: MySQL for Ecommerce & Web Analytics** | Udemy | February 2024* 
-  **Skills:** MySQL · Business Intelligence · Data Analysis · Subqueries · Temporary Tables
 
 ---
 
