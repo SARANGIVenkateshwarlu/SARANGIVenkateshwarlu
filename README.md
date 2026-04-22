@@ -5,7 +5,7 @@
 
 🚀 Ph.D researcher and data scientist (M.Tech, Ph.D. in Physics) with expertise in Statistics, 
     Machine Learning, Deep Learning, Time-Series, NLP, RL,  Generative AI, LLM & Multimodels.     
--   Passionate about building End-to-End (MLOPS, LLMOPS, & RL) systems to deployment and **Research**.    
+-   Passionate about building End-to-End (MLOPS, LLMOPS, & RL) systems and **Research**.    
 ---
 🌐 Connect With Me    
 
