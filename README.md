@@ -92,14 +92,18 @@
 ## Project-1: [END to END Scratch SLM: Building and Fine-Tuning (GPT‑2 124M)](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
 - Base decoder fundation model: End to end layers development for GPT-2 Architecture Design    
 - Created Datasets & DataLoaders (tokenization + padding)    
-- Replace LM head with classification head   
-- Evaluate on full datasets and inference tested             
+- Replace LM head with classification head & Evaluate on full datasets and inference tested
+       
 
 ## Project-2: [SFT-LoRA fine-tuning: Optimization SLM FLAN‑T5](https://github.com/SARANGIVenkateshwarlu/LoRA_fine-tune_summarize.git) 
 - Base encoder-decoder fundation model FLANT-T5(247M)    
 - Achieved full fine-tune (~42% ROUGE‑1), via LoRA Optimization (41.8% ROUGE‑1) with 94% parameter efficiency    
 - Acheived 94% parameter efficiency and Deployed Streamlit.app for inference.    
-## Project-3: [Tiny_small_llm_text generation (22M)](https://github.com/SARANGIVenkateshwarlu/Tiny_small_llm_story_tell.git)
+## Project-3: [Tiny_small_llm_text generation (22M)](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git)    
+## Project-4: [Production-grade implementation of **Knowledge Distillation** for Small Language Models (SLMs) and deployment](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git) 
+- Transfer knowledge from a large "teacher" **Qwen2.5-7B-Instruct** model to a smaller "student" **Qwen2.5-1.5B-Instruct** model    
+- Achieving comparable performance with significantly reduced computational requirements    
+- On-Prime, Ollama, OpenWeb UI, Streamlit, vLLM model serve    
              
 ---
 -   Project-6: END to End / Multimodel RAG with OCR (In Progress)
