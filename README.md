@@ -103,7 +103,9 @@
 ## Project-4: [Production-grade implementation of **Knowledge Distillation** for Small Language Models (SLMs) and deployment](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git) 
 - Transfer knowledge from a large "teacher" **Qwen2.5-7B-Instruct** model to a smaller "student" **Qwen2.5-1.5B-Instruct** model    
 - Achieving comparable performance with significantly reduced computational requirements    
-- On-Prime, Ollama, OpenWeb UI, Streamlit, vLLM model serve    
+- On-Prime, Ollama, OpenWeb UI, Streamlit, vLLM model serve
+
+## Project-5: Vision Language Model (VLM) Training & Serving Platform ## Project-4: [Production-grade Vision Language Model (VLM) Training & Serving Platform(SLMs)](https://github.com/SARANGIVenkateshwarlu/Vision_Production.git)
              
 ---
 -   Project-6: END to End / Multimodel RAG with OCR (In Progress)
