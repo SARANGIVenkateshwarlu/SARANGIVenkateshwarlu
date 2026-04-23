@@ -5,7 +5,8 @@
 
 🚀 Ph.D researcher and data scientist (M.Tech, Ph.D. in Physics) with expertise in Statistics, 
     Machine Learning, Deep Learning, Time-Series, NLP, RL,  Generative AI, LLM & Multimodels.     
--   Passionate about building End-to-End (MLOPS, LLMOPS, & RL) systems and **Research**.    
+-   Passionate about building End-to-End (MLOPS, LLMOPS, & RL) systems and **AI Research**.
+-   Key Words: On-Prime, Ollama, OpenWeb UI, Streamlit, vLLM model serve    
 ---
 🌐 Connect With Me    
 
@@ -105,7 +106,7 @@
 - Achieving comparable performance with significantly reduced computational requirements    
 - On-Prime, Ollama, OpenWeb UI, Streamlit, vLLM model serve
 
-## Project-5: Vision Language Model (VLM) Training & Serving Platform ## Project-4: [Production-grade Vision Language Model (VLM) Training & Serving Platform(SLMs)](https://github.com/SARANGIVenkateshwarlu/Vision_Production.git)
+## Project-5: [Production-grade Vision Language Model (VLM) Training & Serving Platform(SLMs)](https://github.com/SARANGIVenkateshwarlu/vlm_production.git)
              
 ---
 -   Project-6: END to End / Multimodel RAG with OCR (In Progress)
