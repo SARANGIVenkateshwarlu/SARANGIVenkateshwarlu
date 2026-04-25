@@ -1,6 +1,6 @@
 # Hi, I'm SARANGI Venkateshwarlu Ph.D 👋  
 
-**PhD in Physics | (IIT-Bombay, CityU Hong Kong and HKUST)**  
+**PhD in Physics |CityU Hong Kong and HKUST, IIT-Bombay**  
 
 
 🚀 Researcher and data scientist (M.Tech, Ph.D. in Physics) with expertise in Statistics, 
