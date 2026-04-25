@@ -1,10 +1,10 @@
 # Hi, I'm SARANGI Venkateshwarlu Ph.D 👋  
 
-**PhD in Physics | AI/ML Engineer | Data Scientist | MLOPS | RAG | LLM Optimization | Researcher (IIT-Bombay, CityU Hong Kong and HKUST)**  
+**PhD in Physics | (IIT-Bombay, CityU Hong Kong and HKUST)**  
 
 
-🚀 Ph.D researcher and data scientist (M.Tech, Ph.D. in Physics) with expertise in Statistics, 
-    Machine Learning, Deep Learning, Time-Series, NLP, RL,  Generative AI, LLM & Multimodels.     
+🚀 Researcher and data scientist (M.Tech, Ph.D. in Physics) with expertise in Statistics, 
+    Machine Learning, Deep Learning, Time-Series, NLP, RL, Generative AI, LLM & Multimodels.     
 -   Passionate about building End-to-End (MLOPS, LLMOPS, & RL) systems and **AI Research**.
 -   Key Words: Domain Specific, Optimization, Fine-Tune, On-Prime, Ollama, OpenWeb UI, Streamlit, vLLM model serve    
 ---
