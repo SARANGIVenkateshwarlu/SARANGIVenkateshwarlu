@@ -101,13 +101,13 @@
 - Achieved full fine-tune (~42% ROUGE‑1), via LoRA Optimization (41.8% ROUGE‑1) with 94% parameter efficiency    
 - Acheived 94% parameter efficiency and Deployed Streamlit.app for inference.    
 ## Project-3: [Tiny_small_llm_text generation (22M)](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git)    
-## Project-4: [Production-grade implementation of **Knowledge Distillation** for Small Language Models (SLMs) and deployment](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git) 
+## Project-4: [**Knowledge Distillation** for Small Language Models (SLMs) and deployment](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git) 
 - Transfer knowledge from a large "teacher" **Qwen2.5-7B-Instruct** model to a smaller "student" **Qwen2.5-1.5B-Instruct** model    
 - Achieving comparable performance with significantly reduced computational requirements    
 - On-Prime, Ollama, OpenWeb UI, Streamlit, vLLM model serve
 
-## Project-5: [Production-grade Vision Language Model (VLM) Training & Serving Platform(SLMs)](https://github.com/SARANGIVenkateshwarlu/vlm_production.git)
-## Project-6: [QLoRA (SML) Optimization for Financial Risk Summarization, Earnings Calls and SEC Filings](https://github.com/SARANGIVenkateshwarlu/QLoRa.git)
+## Project-5: [**Vision Language Model (VLM)** Training & Serving Platform(SLMs)](https://github.com/SARANGIVenkateshwarlu/vlm_production.git)
+## Project-6: [**QLoRA** (SML) Optimization for Financial Risk Summarization, Earnings Calls and SEC Filings](https://github.com/SARANGIVenkateshwarlu/QLoRa.git)
              
 ---
 -   Project-7: END to End / Multimodel RAG with OCR (In Progress)
