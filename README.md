@@ -109,7 +109,7 @@
 ## Project-5: [**Vision Language Model (VLM)** Training & Serving Platform(SLMs)](https://github.com/SARANGIVenkateshwarlu/vlm_production.git)
 ## Project-6: [**QLoRA** (SML) Optimization for Financial Risk Summarization, Earnings Calls and SEC Filings](https://github.com/SARANGIVenkateshwarlu/QLoRa.git)
              
-## Project-7: **Small-multimodal-llm (MMLM)**
+## Project-7: **Small-multimodal-llm** (In Progress)
 
 ---
 -   Project-8: END to End / Multimodel RAG with OCR (In Progress)
