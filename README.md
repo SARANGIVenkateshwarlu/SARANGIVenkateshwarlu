@@ -90,7 +90,7 @@
 
 <div align="Left">    
     
-## Project-1: [END to END Scratch SLM: Building and Fine-Tuning (GPT‑2 124M)](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
+## Project-1: [END to END LLM from Scratch: Building and Fine-Tuning (GPT‑2 124M)](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
 - Base decoder fundation model: End to end layers development for GPT-2 Architecture Design    
 - Created Datasets & DataLoaders (tokenization + padding)    
 - Replace LM head with classification head & Evaluate on full datasets and inference tested
