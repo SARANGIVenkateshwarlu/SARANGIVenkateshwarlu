@@ -90,10 +90,9 @@
 
 <div align="Left">    
     
-## Project-1: [END to END LLM from Scratch: Building and Fine-Tuning (GPT‑2 124M)](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
-- Base decoder fundation model: End to end layers development for GPT-2 Architecture Design    
-- Created Datasets & DataLoaders (tokenization + padding)    
-- Replace LM head with classification head & Evaluate on full datasets and inference tested
+# Project-1: [END to END LLM from Scratch: Building and Fine-Tuning (GPT‑2 124M)](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
+- Fundation GPT-2 (124M) Model End to end development and Inferance Tested    
+- Final model Evaluation: Accuracy Train:97%, Test:97%, Validation:95%
        
 
 ## Project-2: [SFT-LoRA fine-tuning: Optimization SLM FLAN‑T5](https://github.com/SARANGIVenkateshwarlu/LoRA_fine-tune_summarize.git) 
