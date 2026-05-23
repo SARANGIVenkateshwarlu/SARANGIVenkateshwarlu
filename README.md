@@ -124,7 +124,7 @@
 #### 19.Project-FinTech: **Monte Carlo Pricing**
 
 
-#### 16.Project-Agentic-AI:  **Resume-AI Agent** 
+#### xx.Project-Agentic-AI:  **Resume-AI Agent** 
 - Generates tailored resumes and cover letters based on user requirements
 - Built using LangChain, PyPDF (PDF parsing), and PromptTemplate
 - Integrated with Google services using google-api-python-client and google-auth-oauthlib
