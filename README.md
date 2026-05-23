@@ -112,9 +112,11 @@
 #### Project-9:**Trading_Agent_FinRL_PPO:Financial Reinforcement learning**
 #### Project-10:**stock-market-forecasting_ml**
 #### Project-11:**stock-market-forecasting_cnn**
-#### Project-12:**Small-multi-modal-llm** (In Progress)**
-#### Project-13:**END to End / Multimodel RAG with OCR (In Progress)**
-#### Project-14:**END to END / Production-Streaming MLOP System (In Progress)**
+#### Project-11:**Agentic-AI:  ai-infrastructure (LangChain, LangGraph, Streamlitapp )**
+
+#### Project-:**Small-multi-modal-llm** (In Progress)**
+#### Project-:**END to End / Multimodel RAG with OCR (In Progress)**
+#### Project-:**END to END / Production-Streaming MLOP System (In Progress)**
  
 
 </div>
