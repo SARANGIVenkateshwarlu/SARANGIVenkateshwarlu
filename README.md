@@ -111,7 +111,7 @@
 ## Project-7: **Small-multi-modal-llm** (In Progress)
 
 ## Project-8:**FinBERT_Financial sentiment analysis**
-## Project-9:**FinBERT_Financial sentiment analysis**
+## Project-9:**Trading_Agent_FinRL_PPO:Financial Reinforcement learning**
 --
 -   Project-: END to End / Multimodel RAG with OCR (In Progress)
 -   Project-: END to END / Production-Streaming MLOP System (In Progress)
