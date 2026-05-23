@@ -90,7 +90,7 @@
 
 <div align="Left">    
     
-# Project-1: [END to END LLM from Scratch: Building and Fine-Tuning (GPT‑2 124M)](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
+#### Project-1: [END to END LLM from Scratch: Building and Fine-Tuning (GPT‑2 124M)](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
 - Fundation GPT-2 (124M) Model End to end development and Inferance Tested    
 - Final model Evaluation: Accuracy Train:97%, Test:97%, Validation:95%
        
