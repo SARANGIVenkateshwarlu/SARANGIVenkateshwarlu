@@ -91,15 +91,15 @@
 <div align="Left">    
     
 #### Project-1: [END to END LLM from Scratch: Building and Fine-Tuning (GPT‑2 124M)](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
-- Fundation GPT-2 (124M) Model End to end development and Inferance Tested    
+- Fundation GPT-2 (124M) LLM Model End to end development and Inferance Tested (application)   
 - Final model Evaluation: Accuracy Train:97%, Test:97%, Validation:95%
        
 
-## Project-2: [SFT-LoRA fine-tuning: Optimization SLM FLAN‑T5](https://github.com/SARANGIVenkateshwarlu/LoRA_fine-tune_summarize.git) 
-- Base encoder-decoder fundation model FLANT-T5(247M)    
-- Achieved full fine-tune (~42% ROUGE‑1), via LoRA Optimization (41.8% ROUGE‑1) with 94% parameter efficiency    
-- Acheived 94% parameter efficiency and Deployed Streamlit.app for inference.    
-## Project-3: [Tiny_small_llm_text generation (22M)](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git)    
+#### Project-2: [SFT-LoRA fine-tuning: Optimization SLM FLAN‑T5](https://github.com/SARANGIVenkateshwarlu/LoRA_fine-tune_summarize.git) 
+- Fundation FLAN-T5 (247M) LLM Model Base encoder-decoder  
+- Evals: full fine-tune (~42% ROUGE‑1), via LoRA Optimization (41.8% ROUGE‑1) with 94% parameter efficiency    
+- Achieved 94% parameter compression and deployed the model on Streamlit for inference(appilication)  
+#### Project-3: [Tiny_small_llm_text generation (22M)](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git)    
 ## Project-4: [**Knowledge Distillation** for Small Language Models (SLMs) and deployment](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git) 
 - Transfer knowledge from a large "teacher" **Qwen2.5-7B-Instruct** model to a smaller "student" **Qwen2.5-1.5B-Instruct** model    
 - Achieving comparable performance with significantly reduced computational requirements    
