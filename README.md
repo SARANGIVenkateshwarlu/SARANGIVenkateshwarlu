@@ -116,9 +116,17 @@
 #### 12.Project-FinTech: **Multimodel RAG with OCR (10-Q & 10-K Documents)**
 #### 13.Project-FinTech: **Volatility_Forecasting**
 
-#### 14.Project-Agentic-AI:  **Ai-infrastructure**  
+#### 14.Project-Agentic-AI:  **Resume-AI Agent** 
+- Generates tailored resumes and cover letters based on user requirements
+- Built using LangChain, PyPDF (PDF parsing), and PromptTemplate
+- Integrated with Google services using google-api-python-client and google-auth-oauthlib
+- Deployed with Streamlit
+
+#### 15.Project-Agentic-AI:  **Ai-infrastructure**  
 - E-commerce company ChatBot & customer support team 
-- LangChain, LangGraph, Streamlit.app  
+- LangChain, LangGraph, Streamlit.app
+
+
 
 
 
