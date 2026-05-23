@@ -122,6 +122,9 @@
 #### 17.Project-FinTech: **Brownian Motion_GBM**
 #### 18.Project-FinTech: **Binomial Tree_Pricing**
 #### 19.Project-FinTech: **Monte Carlo Pricing**
+#### xx.Project-FinTech: **Algorithmic_Trading_Machine_Learning**
+- (1).Unsupervised Learning  | (2). Twitter Sentiment   
+- (3).Intraday GARCH  | (4).Weekly EPS momentum | (5).Weekly Direction+RS+RRG momentum   
 
 
 #### xx.Project-Agentic-AI:  **Resume-AI Agent** 
