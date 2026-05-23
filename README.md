@@ -117,7 +117,12 @@
 #### 13.Project-FinTech: **Volatility_Forecasting**
 #### 14.Project-FinTech: **Synthetic Financial data Cuaration_RAG/KD**
 - Text data: Narratives, News, Microeconomic, inflation, interest rate, promotions, Event features and corellations
-#### 15.Project-FinTech: **Regime Detection Forecasting Behavior** 
+#### 15.Project-FinTech: **Regime Detection Forecasting Behavior**
+#### 16.Project-FinTech: **Black Schole_Pricing**
+#### 17.Project-FinTech: **Brownian Motion_GBM**
+#### 18.Project-FinTech: **Binomial Tree_Pricing**
+#### 19.Project-FinTech: **Monte Carlo Pricing**
+
 
 #### 16.Project-Agentic-AI:  **Resume-AI Agent** 
 - Generates tailored resumes and cover letters based on user requirements
@@ -134,6 +139,7 @@
 
 #### xx.Project-MLOP:  **ETL pipeline_Trading system(Sentiment + RRG)**
 #### xx.Project-MLOP:  **Sentiment Analysis (BERT/Distil BERT)**
+#### xx.Project-MLOP:  **Sentiment Analysis (ML)**
 #### xx.Project-MLOP:  **Text Summarization_NLP** 
 #### xx.Project-MLOP:  **Production-Streaming MLOP System**
  
