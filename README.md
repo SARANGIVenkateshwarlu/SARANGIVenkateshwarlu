@@ -115,22 +115,27 @@
 #### 11.Project-FinTech: **Stock-Market-Forecasting_cnn**
 #### 12.Project-FinTech: **Multimodel RAG with OCR (10-Q & 10-K Documents)**
 #### 13.Project-FinTech: **Volatility_Forecasting**
+#### 14.Project-FinTech: **Synthetic Financial data Cuaration_RAG/KD**
+- Text data: Narratives, News, Microeconomic, inflation, interest rate, promotions, Event features and corellations
+#### 15.Project-FinTech: **Regime Detection Forecasting Behavior** 
 
-#### 14.Project-Agentic-AI:  **Resume-AI Agent** 
+#### 16.Project-Agentic-AI:  **Resume-AI Agent** 
 - Generates tailored resumes and cover letters based on user requirements
 - Built using LangChain, PyPDF (PDF parsing), and PromptTemplate
 - Integrated with Google services using google-api-python-client and google-auth-oauthlib
 - Deployed with Streamlit
 
-#### 15.Project-Agentic-AI:  **Ai-infrastructure**  
+#### xx.Project-Agentic-AI:  **Ai-infrastructure**  
 - E-commerce company ChatBot & customer support team 
 - LangChain, LangGraph, Streamlit.app
 
 
 
 
-
-#### Project-:**END to END / Production-Streaming MLOP System (In Progress)**
+#### xx.Project-MLOP:  **ETL pipeline_Trading system(Sentiment + RRG)**
+#### xx.Project-MLOP:  **Sentiment Analysis (BERT/Distil BERT)**
+#### xx.Project-MLOP:  **Text Summarization_NLP** 
+#### xx.Project-MLOP:  **Production-Streaming MLOP System**
  
 
 </div>
