@@ -90,29 +90,31 @@
 
 <div align="Left">    
     
-#### Project-1: [END to END LLM from Scratch: Building and Fine-Tuning (GPT‑2 124M)](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
+#### Project-1: LLM:[END to END LLM from Scratch: Building and Fine-Tuning (GPT‑2 124M)](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
 - Fundation GPT-2 (124M) LLM Model End to end development and Inferance Tested (application)   
 - Final model Evaluation: Accuracy Train:97%, Test:97%, Validation:95%
        
 
-#### Project-2: [SFT-LoRA fine-tuning: Optimization SLM FLAN‑T5](https://github.com/SARANGIVenkateshwarlu/LoRA_fine-tune_summarize.git) 
+#### Project-2: LLM: [SFT-LoRA fine-tuning: Optimization SLM FLAN‑T5](https://github.com/SARANGIVenkateshwarlu/LoRA_fine-tune_summarize.git) 
 - Fundation FLAN-T5 (247M) LLM Model Base encoder-decoder  
 - Evals: full fine-tune (~42% ROUGE‑1), via LoRA Optimization (41.8% ROUGE‑1) with 94% parameter efficiency    
 - Achieved 94% parameter compression and deployed the model on Streamlit for inference(appilication)  
-#### Project-3: [Tiny_small_llm_text generation (22M)](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git)    
-#### Project-4: [**Knowledge Distillation** for Small Language Models (SLMs) and deployment](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git) 
+#### Project-3: LLM: [Tiny_small_llm_text generation (22M)](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git)    
+#### Project-4: LLM: [**Knowledge Distillation** for Small Language Models (SLMs) and deployment](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git) 
 - Transfer knowledge from a large "teacher" **Qwen2.5-7B-Instruct** model to a smaller "student" **Qwen2.5-1.5B-Instruct** model    
 - Achieving comparable performance with significantly reduced computational requirements    
 - On-Prime, Ollama, OpenWeb UI, Streamlit, vLLM model serve
 
-#### Project-5: [**Vision Language Model (VLM)** Training & Serving Platform(SLMs)](https://github.com/SARANGIVenkateshwarlu/vlm_production.git)
-#### Project-6: [**QLoRA** (SML) Optimization for Financial Risk Summarization, Earnings Calls and SEC Filings](https://github.com/SARANGIVenkateshwarlu/QLoRa.git)
+#### Project-5:LLM: [**Vision Language Model (VLM)** Training & Serving Platform(SLMs)](https://github.com/SARANGIVenkateshwarlu/vlm_production.git)
+#### Project-6:LLM: [**QLoRA** (SML) Optimization for Financial Risk Summarization, Earnings Calls and SEC Filings](https://github.com/SARANGIVenkateshwarlu/QLoRa.git)
 
-#### Project-8:**FinBERT_Financial sentiment analysis**
-#### Project-9:**Trading_Agent_FinRL_PPO:Financial Reinforcement learning**
-#### Project-10:**stock-market-forecasting_ml**
-#### Project-11:**stock-market-forecasting_cnn**
-#### Project-11:**Agentic-AI:  ai-infrastructure (LangChain, LangGraph, Streamlitapp )**
+#### Project-8:FinTech: **FinBERT_Financial sentiment analysis** 
+#### Project-9:FinTech: **Trading_Agent_FinRL_PPO:Financial Reinforcement learning** 
+#### Project-10: FinTech: **stock-market-forecasting_ml** 
+#### Project-11:FinTech: **stock-market-forecasting_cnn**  
+#### Project-12:**Agentic-AI:  Ai-infrastructure**  
+- E-commerce company ChatBot & customer support team 
+- LangChain, LangGraph, Streamlit.app  
 
 #### Project-:**Small-multi-modal-llm** (In Progress)**
 #### Project-:**END to End / Multimodel RAG with OCR (In Progress)**
