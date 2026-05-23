@@ -100,21 +100,21 @@
 - Evals: full fine-tune (~42% ROUGE‑1), via LoRA Optimization (41.8% ROUGE‑1) with 94% parameter efficiency    
 - Achieved 94% parameter compression and deployed the model on Streamlit for inference(appilication)  
 #### Project-3: [Tiny_small_llm_text generation (22M)](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git)    
-## Project-4: [**Knowledge Distillation** for Small Language Models (SLMs) and deployment](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git) 
+#### Project-4: [**Knowledge Distillation** for Small Language Models (SLMs) and deployment](https://github.com/SARANGIVenkateshwarlu/llm-distillation.git) 
 - Transfer knowledge from a large "teacher" **Qwen2.5-7B-Instruct** model to a smaller "student" **Qwen2.5-1.5B-Instruct** model    
 - Achieving comparable performance with significantly reduced computational requirements    
 - On-Prime, Ollama, OpenWeb UI, Streamlit, vLLM model serve
 
-## Project-5: [**Vision Language Model (VLM)** Training & Serving Platform(SLMs)](https://github.com/SARANGIVenkateshwarlu/vlm_production.git)
-## Project-6: [**QLoRA** (SML) Optimization for Financial Risk Summarization, Earnings Calls and SEC Filings](https://github.com/SARANGIVenkateshwarlu/QLoRa.git)
-             
-## Project-7: **Small-multi-modal-llm** (In Progress)
+#### Project-5: [**Vision Language Model (VLM)** Training & Serving Platform(SLMs)](https://github.com/SARANGIVenkateshwarlu/vlm_production.git)
+#### Project-6: [**QLoRA** (SML) Optimization for Financial Risk Summarization, Earnings Calls and SEC Filings](https://github.com/SARANGIVenkateshwarlu/QLoRa.git)
 
-## Project-8:**FinBERT_Financial sentiment analysis**
-## Project-9:**Trading_Agent_FinRL_PPO:Financial Reinforcement learning**
---
--   Project-: END to End / Multimodel RAG with OCR (In Progress)
--   Project-: END to END / Production-Streaming MLOP System (In Progress)
+#### Project-8:**FinBERT_Financial sentiment analysis**
+#### Project-9:**Trading_Agent_FinRL_PPO:Financial Reinforcement learning**
+#### Project-10:**stock-market-forecasting_ml**
+#### Project-11:**stock-market-forecasting_cnn**
+#### Project-12:**Small-multi-modal-llm** (In Progress)**
+#### Project-13:**END to End / Multimodel RAG with OCR (In Progress)**
+#### Project-14:**END to END / Production-Streaming MLOP System (In Progress)**
  
 
 </div>
