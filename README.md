@@ -122,10 +122,10 @@
 #### 17.Project-FinTech: **Brownian Motion_GBM**
 #### 18.Project-FinTech: **Binomial Tree_Pricing**
 #### 19.Project-FinTech: **Monte Carlo Pricing**
+#### XX.Project-FinTech: **Rollover Equity(ETF/Stocks/Bonds/Futures/Commodities)**
 #### xx.Project-FinTech: **Algorithmic_Trading_Machine_Learning**
-- (1). Unsupervised Learning  | (2). Twitter Sentiment   
-- (3). Intraday GARCH  | (4). Weekly EPS momentum | (5). Weekly Direction+RS+RRG Momentum
-- (6). Rollover Equity(ETF/Stocks/Bonds/Futures/Commodities)  
+- (1). Unsupervised Learning  | (2). Twitter Sentiment    
+- (3). Intraday GARCH  | (4). Weekly EPS momentum | (5). Weekly Directional+RS+RRG Momentum
 
 
 #### xx.Project-Agentic-AI:  **Resume-AI Agent** 
