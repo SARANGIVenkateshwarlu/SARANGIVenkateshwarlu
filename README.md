@@ -5,8 +5,8 @@
 
 🚀 Researcher and data scientist (M.Tech, Ph.D. in Physics) with expertise in Statistics, 
     Machine Learning, Deep Learning, Time-Series, NLP, RL, Generative AI, LLM & Multi-modals.     
--   Passionate about building End-to-End (MLOPS, LLMOPS, & RL) systems and **AI Research**.
--   Key Words: Domain Specific, Optimization, Fine-Tune, On-Prime, Ollama-OpenWeb UI, Streamlit, vLLM serve    
+-   Passionate about building End-to-End (MLOPS, LLMOPS, & RL) systems and **AI/ML Research Engineer**.
+-   Domain Specific LLM Optimization, and Fine-Tune   
 ---
 🌐 Connect With Me    
 
