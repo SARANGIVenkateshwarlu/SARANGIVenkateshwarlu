@@ -130,13 +130,13 @@
 - (3). Intraday GARCH  | (4). Weekly EPS momentum | (5). Weekly Directional+RS+RRG Momentum
 
 
-#### xx.Project-Agentic-AI:  **Resume-AI Agent** 
+#### xx.Project-Agentic-AI:  [**Resume-AI Agent**](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
 - Generates tailored resumes and cover letters based on user requirements
 - Built using LangChain, PyPDF (PDF parsing), and PromptTemplate
 - Integrated with Google services using google-api-python-client and google-auth-oauthlib
 - Deployed with Streamlit
 
-#### xx.Project-Agentic-AI:  **Ai-infrastructure**  
+#### xx.Project-Agentic-AI:  [**Ai-infrastructure**](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
 - E-commerce company ChatBot & customer support team 
 - LangChain, LangGraph, Streamlit.app
 
@@ -146,7 +146,7 @@
 #### xx.Project-MLOP:  **ETL pipeline_Trading system(Sentiment + RRG)**
 #### xx.Project-MLOP:  **Sentiment Analysis (BERT/Distil BERT)**
 #### xx.Project-MLOP:  **Sentiment Analysis (ML)**
-#### xx.Project-MLOP:  **Text Summarization_NLP** 
+#### xx.Project-MLOP:  [**Text Summarization_NLP**](https://github.com/SARANGIVenkateshwarlu/building_LLM_gpt-2_scratch_classifier)
 #### xx.Project-MLOP:  **Production-Streaming MLOP System**
  
 
